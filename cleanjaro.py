@@ -4,7 +4,6 @@
 # when I want to update things, or clean cache. So I put this
 # together.
 import os
-import sys
 import subprocess
 
 while True:
@@ -29,6 +28,6 @@ while True:
         subprocess.call(["sudo", "pacman", "-Scc"])
     elif choice == '6':
         print ("Thanks for using CleanJaro! See ya later.")
-        sys.exit()
+        break
     else :
         print ("Invalid option.")
