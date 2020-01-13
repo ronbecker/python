@@ -8,7 +8,7 @@ import sys
 import subprocess
 
 while True:
-    print("\nCleanJaro Manjaro Maintenance Script")
+    print("\nCleanJaro - Manjaro Maintenace Script")
     print("1. Update Mirrors")
     print("2. System Upgrade")
     print("3. Remove Orphan Packages")
