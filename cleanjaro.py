@@ -7,9 +7,7 @@ import os
 import sys
 import subprocess
 
-# Start the choice loop
 while True:
-    # ASCII for fun
     print("\nCleanJaro Manjaro Maintenance Script")
     print("1. Update Mirrors")
     print("2. System Upgrade")
@@ -17,7 +15,6 @@ while True:
     print("4. Purge Cache Not Accessed in 30 Days")
     print("5. Clean Up pacman Cache")
     print("6. Exit")
-    # Get the users input.
     choice = input("Enter choice(1/2/3/4/5/6): ")
 
     if choice == '1':
