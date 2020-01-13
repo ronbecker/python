@@ -15,7 +15,7 @@ while True:
     print("4. Purge Cache Not Accessed in 30 Days")
     print("5. Clean Up pacman Cache")
     print("6. Exit")
-    choice = input("Enter choice(1/2/3/4/5/6): ")
+    choice = input("Enter choice: ")
 
     if choice == '1':
         subprocess.call(["sudo", "pacman", "-Sy"])
