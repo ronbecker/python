@@ -1,0 +1,1507 @@
+title,score,id,comms_num,created,body,timestamp
+"The online course for ""Automate the Boring Stuff with Python"" is free to sign up this week.",2080,bz3rxv,245,1560231893.0,"School's out, but that doesn't mean you have to stop learning. The online video course from the author of ""Automate the Boring Stuff with Python"" (that's me) is free to sign up for this week. This sign up will give you life time access to the course. Just use the following link:
+
+https://www.udemy.com/automate/?couponCode=SCHOOLS_OUT2
+
+This course is made for complete beginners who have no experience programming. It's ""programming for office workers"" because it skips computer science and teaches you how to do practical tasks: web scraping, updating Excel spreadsheets, parsing PDFs and Word documents, sending out automated email and text notifications, controlling the mouse and keyboard, and more. If you're an experienced programming, you can skip the first half (which covers basic programming concepts) and directly learn about several useful modules for Python.
+
+(This code expires on June14th. Previously I'd give out codes to folks who asked me after the expiration, but it turns into a logistical headache to keep making coupons each time someone asked, so the deadline is firm.)
+
+If you'd like to support me by using an affiliate code (or encourage yourself to finish the course since you put money down on it), you can also use one of these links to pay what you like: (MODS: if this is too spammy, I can take these links down) (EDIT: Udemy changed their promotion scheme. You'll have to use this new LOWESTPRICE code, which I've set to the lowest allowed. It's $14 now, but that might change in the future.)
+
+* https://www.udemy.com/course/automate/?couponCode=LOWESTPRICE
+
+This online course covers most, but not quite everything, in the Automate the Boring Stuff with Python book, which is freely available online under a Creative Commons license. You can read it at: https://automatetheboringstuff.com/ (The book has a few more examples, and also covers programmatically creating/editing image files, for example).
+
+If you like the course (or don't like it), please remember to rate it.
+
+Good luck on your programming journey!",2019-06-11 00:44:53
+"I'm 100% self taught, landed my first job! My experience!",1904,ctkypf,314,1566441255.0,"Hi all, 
+
+Firstly this is going to be a long post to hopefully help people genuinely looking to commit to becoming a developer by sharing my story of how I went from absolutely zero knowledge of programming (as you can see by my post history) to landing my first python developer role.
+
+Location: UK
+
+To kick things off about a year ago I wasnt happy with the job(s) I was doing, long hours, very low pay, so I came across python by chance. Yes I admit the money was what attracted me alone to start off with as I am quite a money motivated person. Ofcourse I knew and still know it will be a long journey to reach the salaries offered but I have managed to finally get my first step on the ladder by landing a job as a python developer. Enough of the story, lets get on with it.
+
+I will list all of the youtube playlists and channels I watched over and over again. 
+Bear in mind whilst reading these books I did watch a lot of videos in between reading aswell!
+What books I read, in order. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+First book:
+
+Python Crash Course: A Hands-On, Project-Based Introduction to Programming - Eric Matthes
+Review: Great first book, my advice, skip the game and django project and just do the matplotlib project for now (come back to django later down the line once you understand the HTTP protocol and how requests work)
+
+10/10 recommend
+
+p.s. I know a lot of people recommend reading Automate the boring stuff and I regret not reading it after this one!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Book 2:
+
+Learning python - Mark Lutz
+Review: Very good book for getting a grasp on python fundamentals. I would not of read this without first reading Python crash course. You will need to supplement this book with looking up videos on youtube for a deeper understanding as this book is very dry to read and long! 1400 pages! I found a pdf format online for free to read. Don't need to buy it.
+
+10/10 recommend (supplement with videos)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Book 3:
+
+Programming Python - Mark Lutz
+Review: Very good book. I would not read this book word for word. Skim through the book to get an understanding. I would ignore following the projects in the book. Don't spend too much time on it. (Ignore tkinter chapters)
+
+6/10 = Would I read again? Its worth having on your computer to refer to IMO. - You can find this online for free in pdf. 1300 pages.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+From here on I pretty much decided after researching jobs and where the demand was for python developers, that I was going to learn django and learn the web based side of things from here on out.
+
+Most of this from here on is django specific so if you want to learn python for data science or another area you may want to use this as a template and just change the books and videos to meet your needs. O'reilly has a bunch of books on python, there are also so many videos on youtube to help aswell.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Before you jump into django / flask wouldn't it be best to learn how the internet works first? Learn from my mistakes and learn this first before django!
+
+https://www.youtube.com/watch?v=e4S8zfLdLgQ&list=PLLy4MeON3hKCtMvu4yA-DKRG_gsgRR1jM&index=45&t=0s
+I believe from memory there is also a part 2.
+
+Learn what the http protocol is, learn how requests are sent to a server, learn the difference between GET, POST, PUT, DELETE.
+
+Learnt that? Great, lets move on.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Resource - https://wsvincent.com/
+
+Book 4:
+
+Django for beginners - WS Vincent
+Review: Absolutely great first book for learning django! I would highly reccomend also following https://www.djangoproject.com/start/ alongside this book to get you started.
+
+10/10 - This is a must read imo.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Book 5:
+
+I keep hearing the words API, and REST, wtf are they?
+
+Have no fear my friend!
+Watch this first - https://www.youtube.com/watch?v=Q-BpqyOT3a8
+
+REST APIs with Django - WS Vincent
+Review: Great book to learn how to use Django REST API and how it works. 
+8/10 would recommend, however it isnt a very big book and I felt the book wasn't great value for money, I felt at this point I was starting to ask questions in my own mind when reading code on how things could be implemented and expanded on and I felt this book could of had a bit more detail rather than just pointing to external resources. 
+However this book does get you going on how to use django REST and sets you up nicely to learn more advanced material.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+At this point I was starting to consider when I would be ready to start applying to jobs. 
+Start jotting down ideas for any small projects you want to make, for myself it was an REST API app showing CRUD functionality, and a working django website.
+
+I learned basic HTML and CSS to have a better understanding of how templates work and how objects / data is sent from the backend and displayed in the front end and vice versa.
+
+HTML/CSS series - https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+You're still here? Congrats!
+
+I had done a lot of reading and hearing about data structures and algorithms and how you needed a computer science degree to learn it. 
+
+Book 6 - Cracking the coding interview - Gayle Laakmann McDowell
+Review: What to say about this book? Wow, this book was a massive learning curve for me! Considering most days I was spending 6-8 hours committed to learning, some days I would only manage to get through half a page. This book took me 6-8 weeks to go through from memory. All of the examples are in Java so I had to look up corresponding tests in python and reverse engineer to see what was going on.
+
+10/10 This is an absolute must read for anyone. Buy it, read it, understand it, stick it on your shelf, read it again in the future.
+
+Videos to supplement - https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+Cracking the coding interview book also has a corresponding video course on youtube by the author, this helps a lot!
+
+https://runestone.academy/runestone/books/published/pythonds/index.html - this is also a fantastic resource in python!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ahh yes, I think I'm ready to apply for roles! Slow down there young spud! We are not finished!
+
+Test Driven Development - Harry Percival
+
+https://www.obeythetestinggoat.com/book/bibliography.html#seceng
+
+Review: MUST READ, MUST READ. No excuses, get it done, go through it twice, follow the projects, every single interview will involve questions about TDD!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+From here I wanted to have a better understanding of the internet. So I read:
+
+Computer networking: A top down approach
+
+https://github.com/arasty/books/blob/master/0.Computer%20Networking%20-%20A%20Top-Down%20Approach%20(6th%20Edition).pdf
+
+Review: If you do want a better understanding of the internet / networking then skim through this book. As soon as you understand http protocol, TCP/IP, then close the book and move on.
+
+6/10 - Not a must read, but nice to know!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+From here on I didn't read any other books. Most of my time was spent creating my projects to put in a portfolio, watching more videos, getting confused and solving my own problems by building a site using django and learning along the way, and reading the official django documentation.
+
+To keep it short and sweet from here on out I am just going to list the youtubers who truly helped me out, technically and also keeping my motivations high!
+
+https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g - Corey Schafer - 10/10, not going to list any other independent python tutorials, this guy is all you need!
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ - FreeCodeCamp - Fantastic resource, so much on here, only watch what you need to learn, dont get caught up in trying to learn everything the channel has to offer.
+
+The two channels above are all I would recommend for video resources. Freecodecamp also does a good SQL for beginners which is worth watching for any developer.
+
+Other channels 10/10 worth checking out
+
+https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA - Andy Sterkowitz
+https://www.youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg - Chris Sean (my personal favorite)
+
+Traversymedia and thenewboston are both great channels as well for a slightly different way of explaining things if you truly do get stuck.
+
+Interviews:
+
+So after I made a few projects and uploaded them to my github, I put the github link on my CV aswell. I made a linkedin profile aswell.
+
+You may experience a bucket load of recruiters contacting you if you have set up a new linkedin.
+
+My tips for dealing with recruiters (based on my own mistakes):
+
+- Always tell them what you are looking for, DO NOT let them push you forward for a role or arrange interviews on your behalf for roles you are not comfortable with. 
+- If they are aggressive and abusive (yes I have had this), simply hang up the phone, block their number and move on. 
+- Tell them ""I am looking for a junior python role using django ONLY or similar framework"" (ofcourse you can edit this to your area of knowledge)
+- I had so many phone calls I stopped accepting calls as over 50% of calls were roles that were too senior for me or calls about roles I had already applied/spoken about. I set a voicemail up telling them to email me and I will get back to them. Take this advice please, it will save you repeating yourself 20 times a day.
+- You have had an email about a job role? They will usually want to speak to you on the phone first, however I learned to reply along the lines of ""please understand I get contacted frequently by many recruiters, please can you send over a job spec for me to look over prior to arranging a call"".
+This works majority of the time, if they don't reply, trust me you haven't lost out!
+- They may ask you on the phone ""Where have you already applied for?"" Be confident and simply reply ""I would rather not say"", hold your ground, its your own business, not theirs, if they have a role for a company to put to you then lets hear it, be respectful and polite but don't let them push you around, many will try to!
+- They have told you on the phone about a company you have already applied for? ""Sorry I am already engaged with that company"" they will press you on this ""With who? How long ago? What stage are you on?"" Once again, simply say ""I would rather not say"" I have never had a recruiter push me after I have responded that way.
+- Salary ""What are your salary expectations?"" ""What salary are you on at the moment?"" My advice? Simply reply ""Well, what does the role pay?"" Its as simple as that, if a company cant be open and honest about what the salary range is for a junior level role are they even worth wasting your time on? Your current salary is nobodies business, your answer: ""I would rather not say""
+
+If you apply directly to a company through their own website / indeed or any similar jobsite they may ask for salary expectations. I did put in salary expectations for my current job when I applied directly. So just know when to do it and when not to. Applying directly with a good cover letter has most of the time netted me a positive response.
+
+If you have got this far I have no doubt you can become a developer. Yes I am only junior. It has been a long road for me and the learning curve has been insane. I have gone for weeks on end sometimes thinking I am not getting anywhere and wondering when the end will come. You are not alone. Its a small sacrifice in the long term if you truly want to make this your career.
+
+Interviews:
+
+If you manage to land a phone call and/or a face to face interview here are my tips:
+
+- Do not put anything on your CV you do not know in detail. It is easy to expose in a technical interview. 99% of the time questions will be about your CV.
+- What do you know about the company? Why do you want to work here? Do your research, I usually tried to memorize 2-3 things in reasonable detail about the company, it shows a good interest in them.
+Go on their website, read what they do, learn it, memorize, think ""Why would I want to work here?"" answer that with a good answer and you should be good to go.
+- Dress smart! Yes they may wear tshirt and jeans to work. You do not work there yet. Business dress all the time! Shirt, tie, suit if you can! (EDIT: I am in the UK, business dress based on my own work experience in the UK is standard for most jobs, if you are unsure of dress code ask your potential employer prior to interview as I don't want to mislead anyone)
+- Be friendly, polite, act keen (not desperate)
+- ""Would you like a drink of coffee/water before we start"" the answer to this is YES PLEASE! You will need that water to sip on when your mouth goes dry! haha! I've been there!
+- Trouble answering a question? Relax, pause, and just say ""let me think one moment"", if you don't know the answer, just say ""I don't know the answer"" its good to be honest, I have always had a good response by being honest when I have not known the answer! 
+
+I hope this post will help you if you are struggling to find a path. I wish you all the best and good luck!
+
+TLDR: If you want to change your life. Read it.",2019-08-21 21:34:15
+Second edition of Automate the Boring Stuff with Python is now free online.,1456,eia22b,86,1577861045.0,"A list of the new sections is here: https://inventwithpython.com/blog/2019/12/31/reading-guide-to-automate-the-boring-stuff-second-edition-for-readers-of-the-first-edition/
+
+The table of contents and full book for the second edition is here: https://automatetheboringstuff.com/2e/",2020-01-01 00:44:05
+Beginner's Python Cheat Sheets (updated),1437,djqm6v,129,1571447803.0,"Hi everyone! A few years ago I made a set of cheat sheets to go along with the first edition of Python Crash Course. I recently finished updating the cheat sheets to match the changes that were made to the second edition of the book. These sheets aim to remind you of Python's syntax, but they also include brief explanations of the concepts behind the syntax as well. These are all free to download, and they are not specific to the book - they should be helpful to many people, regardless of what your primary learning resource is. 
+
+The first sheet provides an overview of many basic concepts in Python. Individual sheets cover lists, dictionaries, if statements and while loops, functions,  classes, and more. There are also library-specific cheat sheets for Pygame, Matplotlib, Plotly, and Django. You can download individual sheets, download a pdf that includes all the sheets in one document, or download a zip file that includes each sheet in a separate pdf file. Here's an [overview of all the sheets](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/), with links to download whichever version is most appropriate for you.
+
+Cheat sheets have been really helpful to me at times when learning a new language or framework, and I continue to use the library-focused sheets when starting new projects. I hope these are useful to many of you as well.",2019-10-18 20:16:43
+I'm super annoyed and taking it out on learnpython,1366,byfigg,256,1560075446.0,"I've been a senior level software engineer for over 10 years. I have a ton of experience with multiple languages. I've been doing a lot of hard stuff for a very long time. I asked a twitter question to a pretty well-known person in the area I work in the other day, and he got really huffy, assumed that I had no idea what I was doing, told me to not ever do what I was asking about, and told me to go find a different job because I'm not competent to do the one I'm at right now. Never even asked why I was trying to do things a certain way, and just assumed that I was a n00b causing trouble.
+
+&#x200B;
+
+It made me really fucking angry. And it also made me think about how we deal with people we don't know, make assumptions based on questions, and tend to talk shit to people who aren't a part of our in-circle. About how things that people have done for a long time tend to get easier and how we forget how much we didn't know when we were getting started.
+
+&#x200B;
+
+So, I'm taking all my anger at that person out on this sub. I'm going to spend all day tomorrow answering all the questions I possibly can on learnpython in the kindest way I can and with a mentoring attitude where I'll try to understand where you're coming from, what you're trying to achieve, what might be the best way to get to it, and maybe a little extra handholding along the way.
+
+&#x200B;
+
+Be the change you want to see, right?
+
+&#x200B;
+
+Ask me anything about python and anything related to python. I'll spend 12 hours tomorrow answering every question I can.
+
+&#x200B;
+
+&#x200B;
+
+EDIT: man, I was 50/50 on this post getting thrashed by the mods for being a rant. I'm so happy this is getting a lot of responses!
+
+&#x200B;
+
+First of all, thank you to all of you well-wishers encouraging me to not take it so hard. I do take it hard, and that's why I'm trying to resist and do something different with my frustration. To the person who said there needs to be more people like me in the world . . . thanks. That made my day.
+
+&#x200B;
+
+Here are some caveats about my approach: I am not a computer scientist. I don't come from that background. Many of my opinions are not orthodox. I spent the first 20 of my professional life as a classical violinist and music theory teacher. My first technology job was after I read a book on SQL, and my first 3 jobs were nothing but writing SQL. So a lot of my background has come from a data-centric place. It's nice that data is a big thing now! Over the last 13 years though, I've learned python and other languages mostly the hard way, but I've also done a ton of reading academic textbooks because that's how I grew up and learned music theory. So there's going to be some answers where I dive deep into computer science theory and practice and programming language design. Anything I say that isn't verbatim code is just one person's opinion. My word is not gospel. But it's what I have to offer, and I've thought about it a lot.
+
+&#x200B;
+
+I hope I can be really useful answering questions tomorrow and truly kind and helpful to everyone.
+
+&#x200B;
+
+&#x200B;
+
+EditEditEdkt: I changed my mind about being so hostile to the person who gilded me. Thank you kind person, for giving me an imaginary thing to put in my butt while I masturbate.",2019-06-09 05:17:26
+Why study programming when you can just play an RPG?,1093,aw0au0,181,1551441734.0,"Had a noteworthy event today I thought many people in here would get a kick out of. I work as the IT tutor at my school and has part of that I  handle any Intro to Programming appointments that we get. In the Intro classes, they use Python. So I had a student come in today, basically at her wit's end, border-line in tears. Short of the long: 5 weeks into class and she was not understanding the concepts and it was really frustrating her. Okay, so I hunker down and start working with her. In this case, focusing on loops (as that's chapter 6 in the book). He seems to kind of, sort of be getting it, if I hold her hand and lead her through it.
+
+30 minutes in and we haven't really made any progress. I took a step back and started working with her on comparison operations. But she wasn't really getting that either. she is getting more frustrated. So I try to get her mind off the material for a moment.  Her phone flashes a reminder about ""D&D party"" tonight. So I ask if she plays D&D. She does, and we chat briefly about the campaign she's in (she plays a rogue, go figure). Then I hit on an idea.
+
+ ""You know a lot of early programmers were RPG players and because of  that a lot of what developed into modern programming was influenced and  based on RPG mechanics?""
+
+She looked at me like I'm making a really bad setup for an even worse joke.
+
+""I'm serious. How do you determine if you pass or fail a stat-test?"" I ask.
+
+ ""Well, you determine what you need to roll over to pass, roll a dice,  add any modifiers you have and compare that to the first number."" She explains, more energetically.
+
+""So you perform a comparison operation?"" I asked leadingly.
+
+ ""Well... no. I mean...  kind of... wait..."" She stammers out, her response interspersed as she thinks and talks at the same time. 
+
+I go to write on the White board: 
+
+
+    if Dice_roll+modifiers >= needed\_roll:  
+        you pass  
+     else:  
+         you fail
+
+She looked at it for a long moment, you could see the gears turning in her head. 
+
+ ""So the variable, Dice\_Roll is added to the variable modifiers.. and that's compared to the needed roll. If the needed\_roll is higher... you  fail... otherwise... you pass."" She parses out, once more thinking and speaking at the same time.
+
+""Yeah... and what about this one?"" I ask as I write on the board:
+
+     while enemy\_attack == True:            
+          player.cast(shield)
+
+She looks at it for a minute. 
+
+""So long as the enemy is attacking, cast the shield spell."" she says.
+
+""Nice, how about this one?"" 
+
+     for each enemy in hoard:  
+          If player.hp > enemy.defense:  
+               Target_enemy = True   
+               while Target_enemy == True:  
+                    player.attack(sword,enemy)
+
+ ""For each enemy in the hoard... check to see if the player Hit Points are greater then the that enemy's defense. If it is, target that enemy.  As long as that enemy is targeted, attack them.""
+
+""And you just worked through a while loop nested inside an if control statement that was inside a while loop."" I explain.
+
+ ""What?"" She says aghast. She quickly turns back to the board and starts studying the examples intently. I can see her eyes traveling across what I wrote.
+
+""So this on is just a comparison operator?"" She askes pointing to the dice roll I wrote out before.
+
+""Yup."" I respond.
+
+ ""And this is just a while loop that would tell the player character to  cast the shield spell.""  She askes sounding more confident.
+
+""Yup."" I respond.
+
+ Her entire face lights up in that unmistakable look of 'the light bulb turning on'. We start hammering through more examples of loops and control statements, fluctuating between the requirements of her assignments and using RPG examples.
+
+So I guess it all depends on what material you use to explain it, right",2019-03-01 06:02:14
+Automate the Boring Stuff FREE on Udemy,993,drnc0z,97,1572927047.0,"The great Al Sweigart is now on Udemy and is hooking us up with a FREE coupon thru 11/7.  Get some, and maybe show him a little social media love for all he does.
+
+https://mobile.twitter.com/AlSweigart/status/1191436575659311105",2019-11-04 22:10:47
+"""Automate the Boring Stuff with Python"" Udemy course is free to sign up for the next 48 hours: DEC2019FREE",921,e59vzp,95,1575368029.0,"You can use this code to sign up for the Udemy ""Automate the Boring Stuff with Python"" course for free:
+
+https://www.udemy.com/course/automate/?couponCode=DEC2019FREE
+
+During the month of December, you can also use DEC2019 to sign up for $14 instead of the usual $50: https://www.udemy.com/course/automate/?couponCode=DEC2019
+
+Due to the way Udemy now does promotions, I'm limited in how many discount codes I can make each month, so there's no way for me to make more after the 72 hour period, which ends roughly Wednesday night 7pm Pacific time.
+
+I'll have the second edition of the book in HTML format online, uh, soon. I've had some delays getting it ready. The online course follows the 1st edition, and I won't be able to update it until probably mid-2020. I'll write up a blog post about what exactly is new in the 2nd edition soon too. Go ahead and get started: the Udemy course is still useful.
+
+The 1st edition is free online under a Creative Commons license, but if you want to buy a print copy of the book, I recommend getting it directly from the publisher instead of Amazon; you get DRM-free ebook copies in PDF, Kindle, and epub formats for free with the print book: https://nostarch.com/automatestuff2",2019-12-03 04:13:49
+"""Automate the Boring Stuff"" author refactoring beginner's code on a live stream Wed 4/17 at 7pm pacific",905,bdzedl,67,1555478541.0,"EDIT: Thanks for checking out the stream. If you missed it, it's at https://www.youtube.com/watch?v=y2W1PiHctnE
+
+Hello, Reddit! I'll be going over a short Python game written by a beginner and showing how I'd refactor the code so that it does the same thing but with shorter, more readable code.
+
+I'll be streaming tomorrow evening, Wednesday 4/17/2019 at 7pm Pacific at https://www.twitch.tv/alsweigart/ and answering questions folks post to the chat room. If you can't make it, this stream will be recorded and later posted to [YouTube](https://www.youtube.com/user/Albert10110).
+
+Some of the themes I'll cover are:
+
+* How to avoid ""Choose Your Own Adventure"" style code, which depends on flow control instead of data structures.
+* How to remove duplicate code (and why you'd want to).
+* When you should replace multiple variables with a list or dictionary.
+* How you can save yourself effort by using the Python standard library.
+
+If you have programs you'd like to see me refactor, feel free to PM me or post as a comment here your pastebin.com link. To make sure the audience can follow along and it's easy to stream, I'd like to ask that they:
+
+* Generally be between 10 and 300 lines of code in a single file.
+* Only use the Python standard library and not require additional modules.
+* Not require additional files, like files that need to be on your computer, or account info or special permissions or environment setups.
+
+See you then!",2019-04-17 00:22:21
+Nothing is more liberating than learning python well enough to be able to answer questions on Stack Overflow,853,cvl5jy,51,1566836221.0,Seriously! Actually makes me feel vaguely skilled at the language!,2019-08-26 11:17:01
+"Al Sweigart, author of the legendary 'Automate The Boring Stuff' book (and many others) now streams beginner-friendly live coding on twitch!",848,ao3zq2,56,1549576757.0,"Find him here:
+
+- https://www.twitch.tv/alsweigart
+
+Thanks to u/fersloth for posting this info in r/Python, this is super exciting news for anyone who watches twitch and wants to learn to code from a professional programmer and educator in an interactive environment!
+",2019-02-07 15:59:17
+Automated tasks at work... Boss found out,821,dy3nsz,257,1574115062.0,"Hello, 
+
+I've got a few python scripts that I've written to automate some of my work. My boss found out... 
+
+Boss isn't mad surprisingly! But boss wants me to allow others on our team to use the script so they can do the tasks too. 
+
+My problem is this: my script lives locally on my computer and I run the script through pycharm on my computer when I want to do these tasks. I have no idea how or where to put this script that allows others to use it, AND takes user input (just a couple variables). It needs to be presented in a way that doesn't confuse non-programmers.
+
+Also need to mention that my script works in conjunction with a separate app called chromedriver (IIRC). Its an app that has to be running while I run my script: it allows remote navigation of a website i.e. the computer clicks buttons/links instead of me.
+
+Any advice?
+
+EDIT: not that it's important but I'm finding it curious a lot of comments are calling me 'he'. I'm a lady 😁",2019-11-18 16:11:02
+For begginers who are searching for what to do after finishing a course,777,dob4kd,70,1572308558.0,"I have been lurking around in this subreddit for quite a while and what I have noticed is people ask the following questions a lot:
+
+* What to do after I finish a course?
+* What projects should I build?
+* What should I learn next in python?
+
+So if you are asking one of these questions this article is for you.
+
+Enjoy!
+
+I would first recommend anybody to learn the following interesting and helpful modules in python like:
+
+1. Beautiful soup to do web scraping.
+2. Tkinter for building basic GUI/apps.
+3. PyGame for game building with GUI.
+4. Os to mess with files and folders.
+
+I would also recommend you'll to go through the book, [""Automate the boring stuff with python""](https://automatetheboringstuff.com/) from [chapter 7](https://automatetheboringstuff.com/chapter7/) if you'll are familiar with most of the stuff in python otherwise start with [chapter 1](https://automatetheboringstuff.com/chapter1/). Some projects which could be done with those modules are:
+
+1. A very common project with beautiful soup module is scrapping every day's weather forecast.
+2. Building a calculator, attendance recorder or an image hub like [pexels.com](https://pexels.com/) with Tkinter.
+3. With PyGame there are endless possibilities and trust me game making is not so easy with PyGame though basic projects you'll could build are a flappy bird, a racing game, a top-down shooter game or a side scroller like Mario(well don't try to make the exact replica of Mario because that's tough!!).
+4. If you'll want to build something very very basic try building rock paper scissors, cross and nuts, battleship without any GUI and output in the terminal itself.
+
+Another thing which I would recommend is solving problems by going to these few sites
+
+1. [Hackerrank.com](https://hackerrank.com/)
+2. [geekforgeeks.com](https://www.geeksforgeeks.org)
+
+Solving problems might get you'll to be demotivated and to be honest, it got demotivated too but I continued and I got my more confidence back afterwards.
+
+And that's all. Doing these will give you guys a massive skill, knowledge and a confidence boost in python.",2019-10-28 19:22:38
+I made a bot that accuses random celebrities of being in 6ix9ine's 'Nine Trey Bloods' gang.,769,da0eqv,67,1569619697.0,"IDK why I did this, but [here it is](https://twitter.com/bloods_bot).
+
+ Every day, it accuses the most famous person on [Famous Birthdays](https://www.famousbirthdays.com/) of being in [6ix9ine](https://en.wikipedia.org/wiki/6ix9ine)'s '[Nine Trey Bloods](https://en.wikipedia.org/wiki/Nine_Trey_Gangsters)'.
+
+Here's how it works:
+
+* Uses bs4 to scrape Famous Birthdays for celebrity name & picture.
+* Uses Tweepy to search Twitter for the name, returns the most relevant user (if the celeb doesn't have a twitter, it still tags the first result which is kinda funny).
+* Uses Tweepy to attach media & tweet.
+
+[Full code.](https://github.com/lilblizzard/blood_bot)
+
+p@",2019-09-27 16:28:17
+Just spent 2 hours to automate joining csv files saving hundreds of hours a year,766,a085dx,106,1543177971.0,"I just am feeling that buzz from  solving a problem that will save our small business potentially hundreds of hours a year.  We had multiple csv files that had info linked by an ID column that we had to join into a new sheet by hand every month or so.  Boring and time consuming. 
+
+Now all we do is select the source files via a gui and done.  It spits out the newly joined csv.
+
+Simple for some but this is one of my first code tasks that I really understood my approach from the start,   pumped out the code and it all just worked. 
+
+Very pleased.  Buzzed",2018-11-25 14:32:51
+Automate the Boring Stuff is so much better than video tutorials,732,dr6jzi,82,1572843215.0,I've been making my way through [https://automatetheboringstuff.com](https://automatetheboringstuff.com/) and it is so much more detailed and helpful than any of the tutorials on YouTube I've tried,2019-11-03 22:53:35
+Anyone else learning Python to fill the time at a boring desk job?,690,d4imc2,164,1568570786.0,"Instead of squandering the hours of downtime at my bs job on mindless Redditing , I'm learning to code. Going great so far, and I get hours of practice every weekday,
+
+It's like a reverse bootcamp, where I'm being paid to learn development.
+
+Can't believe I didn't think of this sooner.",2019-09-15 13:06:26
+I've officially started to automate parts of my job today and it feels incredible,684,alt3ge,60,1548991153.0,"I'm a lifelong network engineer, and before November of last year I never coded or scripted a damn thing in my life. I knew python could be used for all kinds of tasks and I had been wanting to learn it since about 2016 but stayed away due to intimidation and time constraints. 
+
+In November I got hooked on codeacademy's python course and subscribed, and supplemented it with CBT nuggets' python course. Bought Automate the Boring Stuff on amazon (which is always open and in front of my face while coding) and just started practicing concepts as laid out in the book. 
+
+Today I successfully built a python script that SSH's in to groups of routers/switches and gets information from them, checks the information for certain values, and outputs me a list of compliant devices in a .txt... Last week i built a script that ingests 2 differen excel documents and compares them and alerts me of discrepancies between them. It took a bit of effort, but the reward has already been enormous, its amazing! 
+
+The best part is i can use all of these little functions I've built in other, larger ways later on. Python has seriously empowered me not only in doing things for me, but in the belief that i too could achieve such knowledge apply it to my daily grind, that i too could achieve greatness!",2019-01-31 21:19:13
+I wrote a program that allows you play Hangman with a random comment from Pornhub,687,em32nj,90,1578565266.0,"I spent a solid day working on this just to practice.
+
+Here's the [source code](https://pastebin.com/Dfg5dzWd) compatible with python 3.8+. The third-party libraries, [bs4](https://pypi.org/project/bs4/), [requests](https://pypi.org/project/requests/), and [lxml](https://pypi.org/project/lxml/), are required to run the source code.
+
+There's a few improvements and implementations I would like to make, but I think it's at a presentable stage. Feel free to leave a comment or suggestion on this project.
+
+EDIT: I optimized various parts of the code and added a few features.
+
+* Added commands. You must enter a `/` followed by the command. You can get a list of commands with `Hangman.commands.__doc__`.
+
+* Added `prompt_vid` parameter to the `main()` function. This will prompt the player with the option to open the related video in the default web browser after a game. `prompt_vid` is set to `False`  by default.
+
+* Added `comment_len` parameter to the `main()` function. This allows you to control the length of the comments to avoid lengthy comments. `comment_len` is set to `(5, 50)` by default.
+
+* Made various tweaks to the code's logic for better optimization and to be made compatible with the new features.
+
+Here's the [source code for the updated version](https://pastebin.com/G8U5Y1EG).",2020-01-09 04:21:06
+My first 100 hour of learning programming(28 days),671,e8uo6c,105,1576031998.0,"hi everyone one month ago i decided to learn programming. I always enjoyed the idea of programming but never tried it. So i started a udemy course on python and i was addicted from the first line of code(actually from the second!! i really hated the ""hello world"" programs). I have a batchelors degree in a different field(as you can see not in English!!!) so i never thought about programming as a new career, i just wanted to start a new hobby. 28 days later i really consider to change path to programming, or maybe find a master combining my field with programming. So for the last 28 days i studied and wrote code for 100 hours!!
+
+Let me tell you about my progress from hour to hour and what i managed to make so far!
+
+**hour 0:** Hello world!!
+
+**hour 1-15:** learning the basic python syntax
+
+**hour 20:** i created 2 simple projects. one simple dictionary where you give an input and the script returns the meaning ofthe word from a json file. The second program is a simple script for runners  which gets some user input about your running speed duration and heart rate and returns an estimation of your running fitness. Sound like a lot but it is just a simple calculator with some fancy equations i found online
+
+**hour 23**: Things are getting interesting. As i learn about webscraping instead of building(copying) the program my tutor was making i instead decided to create a scraper on a different website.Theres a site called polar flow where running data from sport watches are stored. so i created a webscraper that scrapes my data from my past acticities and using the equation from my last progress estimates my running fitness from every activity of mine!!
+
+**hour 23-40**. Studied about numpy,pandas,selenium webdrive,BeautifulSoup,csv files.matploid,bokeh and other libraries
+
+**hour 45**: learned how to do linear fitting of scatter data in bokeh. Actually i have a good math background from my university studies so the math part was not hard. I created my first graph in bokeh using the running data of my previous project to calculate how my running fitness increases over time
+
+**hour 45-60**: Learning some basic things about oo programming and classes and pyqt5 graphical interface library
+
+**hour 60**: created my first one window program with pyqt5. now i had to decide. Create simple one window boring programs copying code from my tutor or take notes about the various code lines and how they work together and create a graphical interface for my running app project. i chose the later!!
+
+**79 hour**: almost 20 hours laters most of which was me looking at a screen and wondering why my program doesnt work (cried twice) i managed to create a 4 window program. The concept of the program is to get some running data input from a csv file and calculate running performance and vo2max(estimate). Then using some fitted equations which i created on my own by fitting data from 20 athletes the program estimates your training speeds as (easy, tempo,intervals ect). The third screen calculates your heart rate zones and the forth screen shows a graph on how your stats change over time. I want to add more functions to my program but i left it on the side for now to study more.
+
+&#x200B;
+
+**hour 79-92**  started reading more about some oop cause i don't really get it! started rewriting my code without using  copy and paste even from my one previous scripts and studied various online resources
+
+**hour 92-101**: created a ""shady"" instagram webscraper which does the following.
+
+visits a profile and scrapes all the usernames that follow this profile. Then it visits every each one of them   and scrapesfollower and following number data. Then calculates the ratio of following and followers andchecks from its last posts if it is an active account. If it is an active account and follows more people than hasfollowers the program saves his link and username in a database.The concept is that people who followmore people than get followed are good future follower candidates. Now i want to add a function to theprogram to auto like 5 posts on each of this account. I created a second account to test all this and i won't tryto use it on my primary account. I will get banned obviously!
+
+&#x200B;
+
+So that was my first 100 hours of programing, i would be happy to answer your comments and questions and about your programing journey too!!
+
+&#x200B;
+
+**Edit**: heres some photos of my running fitness project     [https://imgur.com/gallery/LDTkPlZ](https://imgur.com/gallery/LDTkPlZ)  the dots in the plot are running fitness scores for individual runs and the line is the last 3 activities average. Something i want to clarify is that i am not good at programming yet. My programs are buggy and my code is most of the times unreadable. i use google and stack overflow all the time and i get stuck every 5 seconds at something.
+
+&#x200B;
+
+**Edit2:** The reason i remember so clearly what i did in every hour is cause i logged every minute studing and coding in a productivity timer app. I am a master procrastinator so doing things like this keeps me motivated. i also kept notes of what i accomplised every hour to a spreadsheet knowing that one day it may motivate and help someone else do the same.
+
+i won't stop here!!! i am planning to write about my journey here or on a new post as i reach 200-300 hours. The next 2 months will be a little slow but i believe until summer i will reach 300-500 hours
+
+&#x200B;
+
+**Edit 3** : ***I want to add some more things to the post(advices,thoughts and future plans)***
+
+* edx and coursera has plenty of more ""university"" like courses on programming even from universities like MIT and other known institutions, all of the courses there are FREE to watch, you only pay if you want to get a certificate. Also there is a financial aid program if you cant pay the full price but still want to get a certificate. I plan to start a data science/Machine learning course in the future
+* the strugle with online courses is that most of them cover the basics and then you are pretty much on your own, so i now i feel a little lost on where to go on and what to learn
+* another strugle i have is that i don't know how to organize my code properly. I don't know where it makes more sense to create classes, when to split my script to two or more files and things like that, as my projects grow in size i get the feeling that my code is like a giant with glass legs one little thing goes wrong and the whole thing colapses and sometimes i have to rewrite whole sections just to make it work. I believe that if i learn to organize my code better i won't have such problems in the future
+* use jupyter notebooks!!!! google it!
+* visit [codewars.com](https://codewars.com) it is a great site where you solve problems riddle like using programming. You start from easy problems and as you solve them you go to harder ones
+* do your own projects not the one your tutor does. you will fail miserably but in the process of finding why you failed you will learn more stuff
+* play with the code. when i find a line of code online and put it in my project i switch little things to see how it breaks and trying to find out why. This way i learn what every word and symbol in the line of code does and whats it's role
+* try to not copy paste code even if you wrote it in a previous project.
+* read a libary's documentation. When you start learning a new library don't google everything take some time to read the documentation, you will get a better idea of what you can do with this library in the future",2019-12-10 20:39:58
+"I wrote a script that downloads all your reddit saved items, and can be viewed based on subreddit. I would love feedback.",655,cbzb8e,98,1562898657.0,"I'm not very new to programming but, started python this month by doing Automate the boring stuff. (author posted the free course a while ago here).
+
+This script uses PRAW an amazing python wrapper for Reddit API. (kudos for that).
+
+Why did I write this? Reddit is the best thing on the internet (at least for me). I've saved a lot of content but rarely had the time to go through everything. Even when I did it way harder to find posts.
+
+Also, Reddit has a 1000 save limit.
+
+So decided why not give it a go?
+
+**Github:** [link](https://github.com/freeezer98/export-archive-reddit-saved)
+
+This is how it works:
+
+* Download/Clone the files
+* Edit the config file (more info on Github Readme)
+* Install pythonv3.x and pip install PRAW
+* Run the batch file or open the python file and compile.
+* (Make sure to put assets(CSS and JS files) in the folder created, if it doesn't automatically copy them)
+
+feedback/ suggestions/ critique's.
+
+Also: Code is a clutter(Can't help with it)
+
+Known issues can be viewed on Github Readme.
+
+&#x200B;
+
+EDIT: For those who asked me to post a screen recording, r/learnpython does not allow to post links/videos so you can view it [here](https://www.reddit.com/user/freeezer98/comments/ccn8dd/how_to_download_reddit_saved_posts_using_this/)
+
+EDIT 2: CSS, JS file can be edited for much cooler designs. I'm not good at that so bear with me.
+
+Also, it's easy to add options like is\_NSFW, is\_Gilded and many more. Incase you need anything don't hesitate to ask.",2019-07-11 21:30:57
+switched over to python after studying javascript and reactjs for months. My god.. . the freedom and beauty of this language.,639,ebpe7u,143,1576578420.0,I almost want to cry with happiness. I actually enjoy coding again.,2019-12-17 04:27:00
+"NSFW, selenium program I wrote today was the most fun I’ve ever had programming",643,di0w1k,81,1571133453.0,"I wrote a program that opened the chrome web browser, went to google.com, typed hentai porn into the search bar, submitted the search, then opened up the first video. I may not get a lot of upvotes for this program, but ive never laughed so hard while programming. If anyone wants the code I will gladly share it.
+
+Ps. The CSS selector has the word “child” in it. If I could change the internet to remove this, I would. No one will go to jail for running this code. This is not loli stuff.
+
+
+Edit: By popular demand, here is the code
+
+
+
+    from selenium import webdriver
+
+
+    driver = webdriver.Chrome(r'C:\Users\jorda\OneDrive\Desktop\chromedriver.exe')  # Optional argument, if not specified will search 
+    path.
+
+
+    driver.get('https://www.google.com');
+
+
+     # Let the user actually see something!
+
+
+    elem = driver.find_element_by_css_selector('#tsf &gt; div:nth-child(2) &gt; div.A8SBwf &gt; div.RNNXgb &gt; div &gt; div.a4bIc &gt; input')
+
+
+    elem.click()
+
+
+    elem.send_keys('hentai porn')
+
+
+    elem.submit()
+
+
+    elems = driver.find_element_by_css_selector('#rso &gt; div &gt; div &gt; div:nth-child(1) &gt; div &gt; div &gt; div.s &gt; div &gt; div &gt; a:nth- 
+    child(1)')
+
+
+    elems.click()
+
+
+    elems1= driver.find_element_by_css_selector('body &gt; div:nth-child(8) &gt; div.content &gt; div.block-video &gt; div.video-holder &gt; 
+    div.video-info &gt; div &gt; div.info-buttons &gt; div.rating-container &gt; a.rate-like &gt; i')
+
+
+    elems1.click()",2019-10-15 04:57:33
+Automate the boring stuff DOES work,638,en99wc,80,1578787896.0,"I had been fiddling with the language for a bit until a reorganization recently changed my role.
+
+I went from “jack  of all trades” data engineer/ support guy / DBA to site reliability engineer. My new boss tasked me to automate all the boring stuff I was in charge of so I could focus on my new engineering duties.
+
+In over a month, my code has gotten more succinct and effective. Things “click” now as I see real world applications for it. 
+
+All I want to say is don’t despair. Yeah things can  be tough and confusing but it helped me to apply the language in my job. Automate the boring stuff, people!!
+
+Hang in there. You got this.
+
+PS: I am still a newbie, no doubt.
+
+EDIT: a word.",2020-01-11 18:11:36
+A Primer on Python's 35 Reserved Keywords.,626,cno8my,81,1565311046.0,"Ever noticed that some words are repeated over and over in Python programs? Those are Python's reserved keywords, and they form the backbone of understanding the language. Unfortunately they're not all the easiest to grasp, even if your first language is English, and after explaining them, individually, over and over here and elsewhere I decided to put together a pretty long-form resource that I think learners will find useful. Hope it helps! [https://yawpitchroll.com/posts/the-35-words-you-need-to-python/](https://yawpitchroll.com/posts/the-35-words-you-need-to-python/)",2019-08-08 19:37:26
+"I wrote a book on Python Regular Expressions, it is FREE through this weekend",617,aevgbi,99,1547242738.0,"Hello!
+
+I've just released my book on Python Regular Expressions and it is free to download till 13-Jan-2019. You can still pay if you wish :)
+
+* e-book link: https://leanpub.com/py_regex/c/P7erPYAm1386
+    * you will continue to get free updates in future, you'll need to opt-in to get notification via e-mail
+* github repo: https://github.com/learnbyexample/py_regular_expressions
+
+This book would help you learn regular expressions step by step with 200+ examples, from basics to advanced levels. In addition to **re** module that comes with standard library, the 3rd party [regex](https://pypi.org/project/regex/) module is covered as well. Exercises are also included to test your understanding.
+
+**Table of Contents**
+
+1. Preface
+2. Why is it needed?
+3. Regular Expression modules
+4. Anchors
+5. Alternation and Grouping
+6. Escaping metacharacters
+7. Dot metacharacter and Quantifiers
+8. Working with matched portions
+9. Character class
+10. Groupings and backreferences
+11. Lookarounds
+12. Flags
+13. Unicode
+14. Miscellaneous
+15. Gotchas
+16. Further Reading
+
+Hope you find the book useful. I would be grateful for your feedback and suggestions.
+
+Happy learning :)",2019-01-11 15:38:58
+Learning Python and managed to save my company thousands per year,619,a0jqpr,101,1543271000.0,"I'm not a programmer, but for the last 18 months I've using python to automate some simple tasks. I work at a mailing house as a ""data guy"". Been here for 7 years, started as an apprentice and in the last year moved into the data side of the company where I'm now the sole data guy. A lot of what we do is setting up variable print documents and sending them out in the post. Things like transnational statements, bank statements, bills etc.
+
+Sending a letter isn't cheap so we need to try and make savings where we can. I'm not sure if people outside of this industry are aware but you can mailsort data into an order to get a good postal discount. So instead of sending all of our letters standard tariff, unsorted, where Royal Mail will then sort your letters, we try to sort this data so we can send the mail to different Royal Mail depots to get a saving.
+
+When you receive a data file from a client this is fine because you use the data file and merge with a pdf document to produce your print ready file.
+
+When you are supplied a PDF from a client you can't exactly extract the address data easily, mailsort in a separate program and add the new information (barcodes, bag numbers etc.) back into the original PDF.
+
+Using Python I have managed to extract this data, mailsort it using our mailsort software, generate the mailsort barcodes for the postal discount and put them back into the original PDF. Meaning for this particular job we save £55,000 just in postage costs over the year. There are a few more jobs for me to set up now.
+
+I'm not here to brag or anything, but this is the first real thing I've done that has made people realise I have some potential and not think I'm a bit of an idiot. Hopefully I can negotiate a pay rise some time in the future! Maybe I can ask for more than my current 24k ha! More excited how I actually made something though! 
+
+Keep on learning guys, this project just hit me one day and I'm glad I've spent the time to learn python.",2018-11-26 16:23:20
+Some Lessons from 16+ Years of Development,606,aqa74u,127,1550113893.0,"Inspired by /u/ skiutoss 's post, I thought I'd add my own lessons.
+
+Some other people probably got more from their years than I did - I started young(12-14) and I'm stubborn. But I somehow managed to bootstrap a 25+ person company, and have avoided working for anyone but myself and a few clients since I was 15. The only office I've really set foot in is the one I ran. Here are some things I've learned.
+
+Most of this is related to SAAS services written in python.
+
+* Your best programs and projects will be solving problems that you yourself have. If you're lucky, other people will have that problem too. If you're really lucky, they'll pay for your solution.
+     * Your best libraries will be solving problems you have while programming. Write them, learn them, love them.
+
+* Your past work is your best resource.
+
+   * Because of how you code, you're likely to encounter similar issues. Standing examples of ""how I did this"" are tremendous resources.
+
+   * Especially if you're a contract worker, developing your own helper libraries that each contract explicitly gives you the rights to (I offer a transferable license to my prior work, and myself ownership) is worth it's weight in gold. It grows and grows and grows.
+
+* Don't re-invent the wheel, but don't use a dumptruck to move a toothpick just because it exists.
+
+* Coding structure (classes, inheritance, etc) are not for your software as-is, it's for what it will become.
+   * You will always be hung from your largest monolithic function.
+   * When one function is made to do X and you already have a worse function to do X, the old function is to be deleted immediately.
+* Misleading variable names are to be exterminated on sight.
+
+* Consistent variable names will save you huge amounts of time, reduce bugs, and save time for coders you onboard.
+     * Example: product_title in the function that determines the title, product_title in the dict it writes to a queue, product_title in the database, product_title in the json from the ajax call from the website, product_title as the javascript variable storing it on the site.
+
+* Every piece of code should be written with a thought to how hard it will be to replace some day.
+
+    * This is where well defined objects, microservices, and redis queues of tasks/objects shine.
+
+* If you can't code to scale(because time constraints), code to buy yourself time to do so in the future.
+    * As an example: If you are directly writing to a SQL database and it has the potential to be slow in the future, write the needed data to a redis queue and have workers execute it. When it starts to get hairy you can tick up the number of threads while you figure out how to speed up the DB or migrate to a new one.
+
+
+* ""Clever"" code should be readable. If it's not, it's a detriment not a benefit. Coding is not your opportunity to show how much smarter you are than everyone else(who will have to maintain your shit)
+
+* No, you won't remember. TODO lists and comments are vital.
+
+
+* It is rare that you have a legitimate reason to be handwriting SQL queries.
+
+* You will always need a dev environment. Develop scripts for setting them up.
+
+* One of the greatest skills a programmer can have(especially one who works on early stage start-ups) is figuring out which corners *can* and *can't* be cut, and setting up the project to be easily fixed in the future.
+
+
+* The less billing code you are writing, the better.
+    * Significant issues in billing and backups are unforgivable tier errors. Clients and users will forgive downtime, they will not forgive their card being billed at random.
+
+    * There are companies who handle things like subscriptions. Use them. Do not write your own.
+
+* Don't just *have* backups, have an environment for testing those backups. Know how you're going to pause new incoming data when they're applied. Have a system that blows your phone the fuck up if they fail.
+    * In many cases, a failed backup is a company-ender. It's that serious.
+
+    * A master/slave configuration is not a backup. It will save you from hard drives roasting, not a sloppy ""UPDATE"" query.
+
+    * Come to terms with the mortality of your hardware.
+
+* Do not trust user input. Not their cookie, not their form input, and *never* their uploads. Javascript validation is for telling the user their input is wrong, not for keeping your data clean. That is done server side.",2019-02-13 21:11:33
+I didn’t know anything about programming three months ago and I just released my first official Python tool at my job,613,bhccr1,105,1556247174.0,"I came into a great job doing tech support and didn’t know anything about programming. A month in, I saw they were doing some things manually like reading through “logs” for debugging and saw an opportunity. I told my boss of one month maybe we can automate some of this process. I didn’t give him any hard promises but said something to the effect of “let me see what I can do.”  I taught myself python for two and a half months and released a tool at work which does in 20 seconds, what used to take us sometimes up to an hour. 
+
+Aside from everyone being super impressed and cutting down our work load by huge margins(this freeing up time for more important things), I believe it sets me apart from our other workers and shows they made a good choice bringing in new blood. A new realization has also now set in, I LOVE programming in Python. While I don’t get to program every single day due to having a family, I do dedicate a few hours a week to it and am exploring becoming a developer. 
+
+Cheers everyone and don’t give up!
+
+Edit
+
+There seems to be a lot of interest in how I learned. 
+
+I started out doing the two Microsoft classes on EdX. Every time I learned something new I immediately saw a function for it in my program. Slowly I implemented it into my program. It’s the program by the bald guy, I forget his name. He’s very boring unfortunately, but I’m very grateful to him for the information. I’m still very much a beginner programmer, but the biggest thing I have seen that helps is actually building something which solves a problem and you see how it functions by controlling the input and output. I also minimally looked at Automate the Boring Stuff, but I find that book also super useful. Another huge resource is actually reading the manuals and examples from Programiz. For example if the manual says A+B should equal C but I’m getting D then sit down and examine where I went awry. Sometimes I was stuck on a problem for a week or in one extreme case two weeks but I always figured it out and didn’t move on until I understood why I was wrong. 
+
+Also Reddit was a huge resource.",2019-04-25 21:52:54
+90% Python in 90 minutes,606,661o5a,45,1492534417.0,"Came across [this link](https://www.slideshare.net/mobile/MattHarrison4/learn-90).
+
+Though you may like it.",2017-04-18 11:53:37
+Python 201 Book is Free for 48 hours,597,5814lw,137,1476782321.0,"I decided it would be fun to give my latest book away for free for 48 hours. So starting today, you can get **Python 201: Intermediate Python** free through [Gumroad](https://gumroad.com/l/py201#) or [Leanpub](http://leanpub.com/python201/c/201free). 
+
+If you go with Gumroad, then you will need to use the following offer code: **201free**. Note that if you want to receive updates to the book, you will want to create an account and add the book to your library. 
+
+I currently support the following digital formats: PDF, epub and mobi
+
+Note: Repost from [/r/Python!](https://www.reddit.com/r/Python/comments/57xaud/python_201_book_is_free_for_48_hours/)
+
+You might also want to check out my blog which has lots of fun Python tutorials and links to my other books: http://www.blog.pythonlibrary.org/",2016-10-18 04:18:41
+Python 101 Book FREE for 48 hours!,586,5bmaz0,125,1478556371.0,"Today I am releasing my first book, **Python 101**, for free for 48 hours. Python 101 was written as an introduction to the Python programming language. While it is intended for beginners, some have claimed that they needed more hand-holding than this book provided for them. So I currently recommend it as an **introductory** and **intermediate** book for developers that are looking to learn Python.
+
+When I originally wrote the book, I noticed that there were few or no books available that described how to create executables of your code or distribute your code via Python’s Package Index (PyPI). Python 101 covers these topics as well as introducing the reader to Python’s standard library, how to install 3rd party packages and an introduction to some of the most popular 3rd party packages for Python, such as SQLAlchemy, requests and virtualenv.
+
+Python 101 has **5 sections, 44 chapters and 295 pages**.
+
+You can get Python 101 for free on Leanpub using the following link: http://leanpub.com/python_101/c/48hours
+
+If you happen to have a [Gumroad](https://gum.co/bppWr) account, then you’ll be able to get the book free there as well by using the following offer code: **48hours**
+
+You will get the **PDF**, **epub** and **mobi** versions of the book. You can see a full table of contents on the Leanpub site
+
+If you like my first book, you can get its sequel, Python 201: Intermediate Python for **50%** off here: http://leanpub.com/python201/c/50percent
+
+I also write a fun [Python blog](http://www.blog.pythonlibrary.org/) that has many other tutorials on it.",2016-11-07 16:06:11
+2000+ free programming books on github,556,8ycc5j,20,1531448737.0,"I just stumbled upon this gargantuan collection of 2000+ programming books. Many of them are Python, too: [link](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python). I guess filtering out the relevant information is more important than ever...",2018-07-12 21:25:37
+"PSA: To all beginners, learn how to use unit tests early in the learning process",558,cl0qpx,56,1564758488.0,"I'm the last person who ever wants to write unit tests but, when you know you have to write unit tests you become a better engineer. You write smaller functions, you have less bugs and realizing how difficult it is to write a high coverage unit test the better you design your functions and ultimately your program.
+
+edit: [How to test hello world!](https://www.reddit.com/r/learnpython/comments/cl0qpx/psa_to_all_beginners_learn_how_to_use_unit_tests/evu5vwm/)",2019-08-02 10:08:08
+"""Automate the Boring Stuff"" author is live streaming Python programming on Monday evening 5/27, 6pm Pacific",557,btfqr3,28,1558947829.0,"Hi Reddit! I'll be live streaming myself working on a few different text-based games in Python on Monday, 5/27 at 6pm Pacific:
+
+https://www.twitch.tv/alsweigart/
+
+I'm creating a collection of short, complete, text-based Python games. The idea is to create several examples for beginner/intermediate programmers to look at to see how programming concepts come together into a complete program (while still being small enough to understand). The current collection is on GitHub at: https://github.com/asweigart/PythonStdioGames/tree/master/src/",2019-05-27 04:03:49
+"When I'm coding, I don't feel stupid anymore",544,989qx7,77,1534603466.0,"I was diagnosed with Asperger syndrome when I was little (so i'm literally autistic), and while i don't 100% accept this diagnosis, I'm not completely convinced it's not correct either. I'm able to manage the worst of my depression and anxiety through routine and lifestyle, and have memorized enough do's and don'ts to navigate most but not all social interactions without upsetting people, but I have trouble focusing, remembering to do things, not offending people, and occasional bouts of crippling depression with self loathing and suicidal thoughts. At 27 years of age, I have dozens of moments per day where I think or even say out loud ""being retarded sucks"". When i'm coding though, I don't feel autistic anymore. 
+
+When i'm coding, I get into a flow state and I don't feel anxious, don't think about suicide, and don't feel the need to drink. Even when I get frustrated, as all people who code do, I'm excited to find a solution. There is always a logical reason that the computer does what it does (not always the case with people), even if I haven't yet figured out what that reason is, and it is possible to find a rational solution by breaking down the problem into smaller and smaller components. Unlike the rules that dictate social interaction, which seem to update frequently, without warning and everyone but me understands these rules and I get penalized for breaking them, the  'rules' that dictate a computer's behavior stay the same even if software updates make it sometimes seem like they don't. Most importantly though, when I am learning something new with Python and it 'clicks', or when I figure out how to do something better than I was doing it before, I feel like a f\*\*\*ing genius. I feel like ""Even though you are a complete (fornicating imbecile) in every other area of life, it looks like you have finally found something you are good at, Douchabag\_Dan!""
+
+I am so grateful to live in an age where this exists. I'm so grateful that Python has such a helpful community that makes it easy to learn and get started. Just wanted to share my gratitude. Thanks for reading. ",2018-08-18 09:44:26
+Automate the boring stuff Udemy course Free,543,ejckrm,88,1578068446.0,"Just got the Udemy course for automate the boring stuff for free by going to the website and clicking the Udemy link.
+
+EDIT: If your having trouble try using the code- JAN2020",2020-01-03 10:20:46
+Beginner's Python cheat sheets,549,4atn5f,57,1458257951.0,"I recently made a set of cheat sheets aimed at beginners, and thought they might be useful to some people here.
+
+The [first sheet](https://github.com/ehmatthes/pcc/raw/master/cheat_sheets/beginners_python_cheat_sheet_pcc.pdf) provides an overview of many basic concepts in Python. Individual sheets cover lists, dictionaries, if statements and while loops, functions, and classes. You can download [individual sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html), or download a pdf that includes all the sheets in [one document](https://github.com/ehmatthes/pcc/raw/master/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf).
+
+Cheat sheets have been really helpful to me at times when learning a new language or framework, and I hope these are useful to some people as well.",2016-03-17 18:39:11
+What is the point of __name__ == '__main__' in Python programs?,535,eb57p0,54,1576475051.0,"When I look at other peoples code, I frequently see
+
+    if __name__ == '__main__':
+
+What exactly does this do and mean?",2019-12-15 23:44:11
+Will coding endlessly actually make you better and better at Python?,540,eim1x4,159,1577933834.0,"By now I know pretty much all the basics and things like generators, list comps, object oriented programming, magic methods and etc. But I see people on github writing extremely compilcated code and stuff that just goes right over my head, and I wonder how they got so good. When I look in this subreddit, most of the people just say code, code, code. I completely agree that helps in the beginning stages when you try to grasp the basics of python, it helped me alot too. But I don't see how you can continue to improve by only coding. Cause coding only reinforces and implements what you already know. Is just coding the projects you want to do, gonna get you up to the level that the professionals are at? How did they get so good? I kinda feel like I’ve hit a dead end and don’t even know what to do anymore. I'd like to know people's opinion on this, and what it really takes to become a professional python developer, or even a good programmer as a whole whether it be python or not.",2020-01-01 20:57:14
+Wanna to learn python? Don't read books. Do the side project!,534,c5o70z,143,1561573866.0,"I'm lurking the sub for some time already. I believe managed to help some of you already so you may know me.
+
+&#x200B;
+
+Now I want to help some more...
+
+&#x200B;
+
+One thing I noticed is that the great part of you just read books, do courses, read more books, watch youtube videos etc. And you're struggling with using the concepts you've learned (not really learned actually) in a real life. Here is what I propose.
+
+## Don't read books. Do the opposite.
+
+Yes, the opposite! Get an idea for a little more than a simple project and do it!
+
+The project cannot be too simple, because you would be lying to yourself that you're proficient. What you need is a project that **you are not sure you can make**. That's a challenge. But there's something more to make it work.
+
+## Pick the topic you're passionate about
+
+To achieve what suppose to be ""impossible"" at the beginning, you need something the scientists call ""the flow"".
+
+If you play video games, you know what I'm talking about. It is a state of hyper-productivity, hyper-focus - it's when the magic happens.
+
+Prepare a distraction-free environment. No kids running around. No TV. No Facebook. No smartphone. **Just you, your laptop, headphones, and instrumental music.** Once you get into the flow, stay there as long as you can. Ask your spouse to not interrupt.
+
+What can help you is to pick the topic for the project that you're passionate about. It is gonna be a little bit easier for you to start, and maintain the excitement.
+
+# ""I don't have the motivation. I don't have time.""
+
+Motivation's garbage. Don't count on you being motivated. Just don't. It's another excuse to not produce any results. Ass in the chair. Headphones on the head, no distractions. Just you and the project. Everyday. No excuses. If you can't do it, resign right now, don't waste your time. You can't be great without the pain of forcing yourself.
+
+## ""I just can't into programming yet...""
+
+Do the project first, and learn as you go. Do you need loops? Learn, and use them immediately. Need functions? Learn and use, and use them immediately. Do you need classes? You know what to do. Trust me it works. Especially with python.
+
+## ""How the f*** you know it works?""
+
+I am an example. I'm now the Technical Lead for Atlanta based startup. I did in 3 years after university. **I have never read a book about python in my entire life**.
+
+All I did was picking up the project, developing it, learning as I go, showing to the people and fighting with fire on production. Get the feedback ASAP.
+
+Last 2 jobs I did get without even showing my résumé to the HR. I just showed them my side projects.
+
+At the beginning I started with a 2D game based on \`pygame\` library in python 2.7. Do you think I knew how to do it? Nope. I spend 1 week on something that today could take me 1 or 2 hours. [Check this out.](https://www.youtube.com/watch?v=t7cDpiCqZwY)
+
+Then I've created my first Django projects. I learned how to design a REST API. After that I've met android developer and we've made 3 mobile apps, one of them having 500 users simultaneously. I had to make it work to not let the users down. That's the pressure you want to get! **You know the best practices because you just had used them. You didn't have any other choice**, but a massive failiure.
+
+# Show your project, get the feedback, feel the pressure.
+
+In this very moment, I mentor 2 people - 20-year-old student and 27-year-old firefighter who wants to change his current job.
+
+They picked up the projects, I do the code reviews for them. We have a knowledge learning session once per 2 weeks. They get the feedback, they learn and they leveraging my experience. I advised them to not read ""Learning Python"" book, but just start working on a project, and open this book only when it's necessary to move forward.
+
+&#x200B;
+
+Pick the project, good luck, have fun.
+
+&#x200B;
+
+# ** Edit
+
+After reading the comments I think I went a little bit too ""click-baity"". I'm sorry for that. Clarification: Of course, read the books **to solve the problems you encounter during the side project**. Like the book I mentioned ""Learning Python"" - it's a great book for beginners but as a reference book (like I used it) not as a cover-to-cover novel to read. Without putting the things you read into action in a real project, you will forget soon.",2019-06-26 13:31:06
+I'm so happy!... I've just written a program for the first time that didn't come from a book or an exercise!,517,d3tjiv,34,1568428543.0,"It's so, so basic and probably incredibly inefficient - but I don't care! I'm ecstatic :D 
+
+I want to look at my spending habits with Amazon, I thought they would just provide me with a CSV of my historic order, and they do - but only for the US site (I'm British).
+
+So I thought I would make web scraper that made a CSV file for me. I haven't learned how to make a web scraper yet - as I'm not familiar with BeautifulSoup. 
+
+However, I did realise that part of the process would be flicking through Amazon Order pages so I thought I should create something that spits out a URL to a page.
+
+At some point, I intend to make this automated so that it cycles through all of the pages of a given year. As of right now, the user inputs a year and what page they would like to view and the program opens that URL in a new tab :).
+
+Thanks very much to everyone here :)
+
+[Here is the code!! (GitHub Gist Link)](https://gist.github.com/TheAlmightyDada/1b63537acad1d7c90160e8b6ecec9473)",2019-09-13 21:35:43
+I recommend the official Python tutorial for certain learners,510,df265b,61,1570579990.0,"I've been learning python for a while and feel like I know it on an intermediate level. Yesterday, I decided to take a look at the official  [Python Tutorial](https://docs.python.org/3/tutorial/index.html) because I never had before. I ended up staying up until 2am reading it because I'm a fucking nerd.
+
+I'm going to be honest, for a total programming beginner, I believe this ""tutorial"" might scare them off. It's pretty technical and doesn't hold back on jargon and details that would confuse an absolute newbie.
+
+But for someone who is either:
+
+1. Already comfortable with the basics of python and programming concepts
+2. Coming from another language
+
+the tutorial is great! It gives a level of detail into the language that you don't get in most regular tutorials.
+
+It can be dry if you're not really passionate about programming, but the information you'll pick up and the deeper understanding you'll gain will be worth the time to read the entire thing.
+
+If you're looking for the next step to deepen your understanding, check it out. It's definitely not just another oversimplified ""basics"" tutorial.",2019-10-08 19:13:10
+The basics so basic they don't even teach it,509,e0s4fw,98,1574590178.0,"What is an environment, whats a configuration?
+
+&#x200B;
+
+I keep seeing terms like these and a bunch of other stuff in Python courses I take, but no one takes the time to explain how Python even works on my computer. Are there any videos you can suggest that talk about not how to program with Python but what an environment is and why I have both a terminal and IDLE. Explaining Python even functions on my Mac.
+
+&#x200B;
+
+thanks!",2019-11-24 04:09:38
+"PSA: If you have a library card, you probably have access to Lynda.com, which has tons of Python courses",508,6rrsdu,37,1501969082.0,"Lynda.com is one of those training/education websites like Coursera & Udemy. An account is usually around $30 per month, but a lot of libraries have an account you can use to access all the courses for free! So if you have a library card, you can log on to Lynda with it! 
+
+I'd recommend going to your libraries website and searching for their link to Lynda. Log in through that link. Once you're logged in, just search for Python and tons of stuff comes up.
+
+Wanted to let the sub know because if you're library has an account it's a valuable source of training available to you!",2017-08-05 16:38:02
+MIT's Introduction to Computer Science and Programming Using Python starts today.,501,6x3tjg,87,1504171711.0,"I'm going to be taking this to help me learn python. 
+
+If anyone else is interested the link is below and there is a [slack support group](https://join.slack.com/t/redditmitedxpython/shared_invite/MjMyNDc3ODk0MTEzLTE1MDM5NzY4OTMtY2E3ZDYzMDQ1Yg) running for all those who want to take it. 
+
+[Course Link](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)",2017-08-31 04:28:31
+5 Common Python Mistakes and How to Fix Them,494,bg58gt,48,1555984975.0,"I make Python videos on YouTube and get a lot of questions every day. I found these 5 mistakes to be common problems, especially for those who are learning Python. Hope some of you find this helpful. Video [here](https://youtu.be/zdJEYhA2AZQ):
+
+ [https://youtu.be/zdJEYhA2AZQ](https://youtu.be/zdJEYhA2AZQ)  
+
+
+Cheers",2019-04-22 21:02:55
+"Today I wrote a program that 2x/day records the subscriber count of my favorite subs I mod, prints to the terminal, appends a document, and then emails me an update. You all have been invaluable to my learning, and I can't tell you how much appreciate everything...",495,cmdy86,46,1565054629.0,"I left a career in psychiatry after a car accident caused by a texting driving put me out of commission for several months. I decided to move into a new career in programming. We moved crosscountry to a new state where we knew no one a few months after the accident, and I was trying to figure this all out on my own while dealing with a lot of stuff that was making it harder than it had to be. Hours spent googling, trying, and failing when I couldn't even type for very long in the first place from breaking the stereo with my hand  took a toll on me. Then I find you guys. I wasn't alone trying to figure this out anymore.
+
+I seriously can't tell you how much I appreciate you all for helping us noobs. I can't wait to reciprocate.
+
+&#x200B;
+
+tl;dr: Life can suck, you all rock. Thanks!
+
+As requested, here is the GitHub repo for [subcounter\_public](https://github.com/GrizzledLabs/subcounter-public)!
+
+&#x200B;
+
+Also as requested here are links to my [Trinket.io](https://Trinket.io) projects you can interact with and review the code. Some of these are better than others as they were written and never updated, but I enjoyed them!
+
+[Rock Paper Scissors game that keeps score](https://trinket.io/library/trinkets/fce2f04579)
+
+[DnD Character Roller that I will eventually add more to choose an ideal class based on the stats rolled](https://trinket.io/library/trinkets/3aab09c0e1)
+
+[Roll & Flip a custom dice roller  and coin flipper](https://trinket.io/library/trinkets/633238df3b)
+
+[Password Generator that can do 3 levels of security](https://trinket.io/library/trinkets/7e9ee94b28)
+
+[Wookiee Name Generator](https://trinket.io/library/trinkets/6ab03eaf6f)
+
+[Snarky number guesser game](https://trinket.io/library/trinkets/c69cdc6822)
+
+[Four letter word game generator](https://trinket.io/library/trinkets/d8628c4903)
+
+[Shakespeare Insult Generator](https://trinket.io/library/trinkets/384afd0809)
+
+[Pin generator](https://trinket.io/library/trinkets/00754ec904)",2019-08-05 20:23:49
+"""Do I need to know math to be a programmer?""",485,d6upsu,167,1569013937.0,"We see this question pop up from time to time.  I had an experience at work today that I think exemplifies the answer to this question. I work as an IT tutor for a local college and thus I handle the intro to programming classes. So I had an appointment today.
+
+The student was having trouble with their assignment. 
+
+Okay, no biggie. Everyone has trouble with something. So we get to work. 
+
+ The assignment is to build a program that prompts the user for the  measurement of the radius of a circle, performs the calculation to  determine the area of a circle with that radius, and display said area.  the instructions even include code to import the python math library,  assign a value from the Pi function of said library, and the formula  Pi(r)\^2.
+
+I look at their program.
+
+They have imported Math.  
+They have Pi assigned to a variable.  
+They have a variable asking the user for a number  
+They have a variable named ""area"" currently set to '100'.  
+They have a print statement to cast the value of area to a string, and then print said value.
+
+Notice what they don't have? Yeah, any point where the area is  calculated. Now if this was just a case of they hadn't worked with basic  geometry in 5 years I could just let it go. Sometimes people just need a  reminder of what ""Pi(r)\^2"" does, or what Pi is and it's relevance to  circles. But no, not this individual. 
+
+When I was working with them to understand this, they asked why they needed to know it when the computer should do all that work.
+
+So as far as the 'Do I need to know math to be a programmer?' question, I think this is a perfect example of  while you don't need to know advanced mathematics to be a programmer,  you do need to be able to deconstruct a problem and understand what  needs to be done to solve it. That is the foundational concept of  mathematics.",2019-09-20 16:12:17
+"I am a self taught programmer developed my very own Jarvis, called Stephanie, an open source virtual assistant built to control and automate any task and so can you!",483,6ghxgg,27,1497161335.0,"[Stephanie](https://slapbot.github.io) is an open-source platform built specifically for voice-controlled applications as well as to automate daily tasks and hence imitating much of an virtual/personal assistant's job. It is written in python and I call it more as a framework than an application.
+
+There are lots of amazing things about Stephanie, and I'd be listing few of them.
+
+- **Beginner Friendly** - The Ultimate goal of this project is to create a general awareness among all sorts of people irrespective of their career background to get them interested in 'building something cool', that's why installation is made quite simpler but not the simplest to help general public learn programming in a very different way where they could feel they are making something cool while learning the essence of programming.
+- **Minimal Hardware Requirements**, seriously, you got a machine? windows or linux? a speaker of any sort? headphone, headset and a mic which could be anything like inbuilt, bluetooth or just connect a freaking phone.
+
+- **Privacy**, Stephanie offers lots of engines to adjust your privacy as needed, in contrast to other commercial based applications which tracks all of your data (listening everything)
+
+- **Difference**,  Now you must okay dude, but how is it different from siri, cortana or echo and other commercial softwares?  Well first of all Stephanie is completely open source, even the algorithm which is used to predict the intent (I've written a paper on it which I would highly recommend to anyone interested in this link :  https://slapbot.github.io/documentation/resources/algorithm ) is open-sourced so basically you are using a software which is community driven.
+
+- **Modules**,  So since Stephanie is completely open-source, you can integrate it with lots of public/private API's to take the application to new level, don't believe me, check out some of it's functionality.
+
+Let's take a brief look at social networks, shall we? How about twitter eh?
+
+***You***: Hey Stephanie, Do I have any twitter Notifications?
+
+***Stephanie***: Your latest tweet has been favorited by 20 people, whereas @rayhudon mentioned you stop swooning over real madrid, they ain't gonna win 3 CLs consecutively, that's nuts.
+
+(You can tweet something with the help of stephanie too, similarly I won't be talking about each one, since there are too many functionalities but you are welcome to check it for yourself.)
+
+Okay so How about facebook? Do you ever forget your friends birthdays? well fear not, Now Stephanie got your back.
+
+***You***: Hey Stephanie, Do I have any birthday reminders?
+
+***Stephanie***: Oh Yes! your friend Karan Sachdeva has a birthday today.
+
+Wanna write something in facebook as a wall post to show off among your friends? Cmon be humble dude.
+
+***You***: Hey Stephanie, I wanna do a status update on facebook.
+
+***Stephanie***: So, What's on your mind?
+
+***You***: How can mirrors be real if our eyes aren't real.
+
+***Stephanie***: 'How can mirrors be real if our eyes aren't real.' has been put up as wall post.
+
+Now again this is just social networks, there are many more modules to work with, for instance: Ever wanna note something on fly? no worries mate, your **Evernote** Account got your back with it's integration, or maybe you want your unread emails? **gmail** is there for you, **weather updates**? forecast? *latest news** information, forget to wish your mom on mother's day? sync your **google calendar** man. Are you a movie-freak? Jesus, **imdb** got you, **Restaurants suggestions**? **Wikipedia**? **Quick Answers** to general IQ questions? And My personal favorite **Football** Module which has alone more than 30 functions to let you daydream your favorite football team or league.
+
+**DEVELOPER FRIENDLY**,  Now this is the real deal right here, The reason I call it Jarvis v2.0 is because  I believe Stephanie more as a framework than an application and with it's extensive documentation  and a really cool interface you can built one of the most complex and intricate programs with it, Honestly, I feel a person can even create an  enterprise based application from it. The Developer guide written is basically for programmers to guide them on the process of how to write their own modules and extend the functionality of Stephanie, wanna sync up your Quora account? Reddit? Some obscure internet forum? Control your Air Conditioner? Door handles? Wifi Routers? Cool just write your own module and integrate with  Stephanie using a really nice interface which gives you all the functionality needed to built it out of the box.
+-
+
+Or maybe you just wanna integrate some other guy's written module? Awesome with a community and easy integrate methods, do whatever with Stephanie, change it's name to Munni or stick with the current one, It's 100% customizable and the decision is in your hands.
+
+
+Finally, this is a video where I kind of explain about Stephanie, with few demonstrations if anyone is interested and doesn't wanna read up this post.
+
+https://youtu.be/Pp5dXbWZsrU?t=1m40s
+
+And at the last, the link to main website to know more about it :-
+https://slapbot.github.io/
+As well as the link to algorithmic paper : https://slapbot.github.io/documentation/resources/algorithm/
+
+Github repo of Stephanie: https://github.com/slapbot/stephanie-va
+Github repo of Sounde: https://github.com/SlapBot/sounder",2017-06-11 01:08:55
+6 Months of Python Grinding Pays Off (thanks to this sub),476,78js5u,54,1508916828.0,"I’m in a customer support leadership position and I’ve been at Python for roughly a half year after learning SQL the first half of the year. It wasn’t in my job description, but all the free time I had I spend working on relevant python scripts and I’d sometimes spend 15+ hours/week outside of the job getting scripts to work.
+
+Our business intelligence officer let me know the plan is to pull me out of support and into an official data analyst role in Q1. 
+
+I feel incredibly proud and wanted to share and thank this subreddit for always giving thoughtful answers, and for people not being afraid to ask what they might think are stupid questions. So many good resources are references and a plethora of general programming tips are shared. 
+
+For anyone who’s just starting out, keep at it! If you have the opportunity work on scripts practical to your job you’ll eventually you’ll impress someone. I really can’t wait for the opportunity to focus on this stuff full time and really begin to grow. 
+
+Thanks!",2017-10-25 02:33:48
+I took my first Python project to the next level: from first ever GitHub repository to published package.,471,c6yhqq,38,1561840823.0,"Around a month ago I posted [here](https://www.reddit.com/r/learnpython/comments/bv5etg/my_first_python_project_command_line_application/) my first GitHub repository ever with simple command line application for selective file copying.
+
+Couple of days ago I finally created the first release on [GitHub](https://github.com/pltnk/selective_copy/releases/tag/v0.1.0) and published it on [PyPI](https://pypi.org/project/slcp/0.1.0/)!
+
+&#x200B;
+
+[This is how my code looked like a month ago.](https://github.com/pltnk/selective_copy/commit/15ea88663f97b00fc83b82639e5793b89ae30f69) 
+
+[And here it is now.](https://github.com/pltnk/selective_copy/blob/6ca00871de8f8c84d8f7b0bbc00337702202e969/slcp.py)
+
+You can check changes comparison between initial upload on GitHub and current version [here](https://github.com/pltnk/selective_copy/compare/master@%7B05-30-2019%7D...cc99368fe1c88e2b5d0c6d526147626f878a4f93?diff=split) by clicking 'Files changed' tab.
+
+[Commit history.](https://github.com/pltnk/selective_copy/commits/dfd5a9e5ecc2bf3e2614a72388de2fdc8bf68f1e)
+
+And now you can install my application via `pip install slcp`
+
+&#x200B;
+
+As you can see my code went through significant changes. Firstly I implemented more effective logging system using logging module. Initially I used just a list where log was stored and saved to the file at the end of the program. But this way a log could be lost if the program crashes. Then I changed my error checking system and made it more precise. At first it checked only one case and moreover it did it wrong :) The most challenging task was to redesign the main functions for files copying. Since I have a progress bar I needed to know total number of files copied before actually copying them. This way os.walk function was called two times: when counting total and copying files. Also there were two copy functions one of them allowed to preserve source folder structure and the other doesn't. Thanks to /u/fernly from the comments of the previous thread I made one function that calls os.walk and make a to-do list for copying adding a sublist for each file with source and destiation paths. The len of this to-do list is the total number of files to copy that can be used in progress bar printing. Then I left only one copy function instead of two which takes that to-do list as an argument. Also I added some small features like adaptive progress bar that takes into account width of the terminal and couple of new arguments for command line parser. All of significant changes in the code can be seen as merged pull requests in the commit history. 
+
+Last time I received very valuable feedback regarding architecture of the program that really helped me to make my code better, so I want to thank this community and all the people who spend their own time to answer questions. 
+
+While working on this project I've learned how to use argparse, logging, os.path, os.walk and poetry. I made myself familiar with git and learned a lot about packaging, versioning, licensing and using markdown for readme files formatting.
+
+Of course there is always a room for improvement so all feedback will be highly appreciated. As a next step I intend to finally write some tests, if somebody knows the best way to do it for such a program please let me know.
+
+Working on your own project is the best way to learn indeed, good luck with your learning, have fun and don't ever hesitate to ask questions!",2019-06-29 15:40:23
+My cousin asked me where I would go if I wanted to learn programming all over again. This was my response.,476,3p5z6o,70,1445151580.0,"1.	Learn python: 
+ 1.	https://www.codecademy.com/en/tracks/python
+ 2.	https://www.coursera.org/learn/python 
+ 3.	https://www.coursera.org/learn/python-data
+2.	Solve challenges with Python
+ 1.	https://www.hackerrank.com/domains
+ 2.	Note: You should be able to the ""Algorithms"" and ""Python"" domains. ""AI"" is fun too.
+3.	Learn skills with Python
+ 1.	https://www.coursera.org/learn/python-databases
+ 2.	https://www.coursera.org/learn/python-network-data
+4.	Get ready to build something
+ 1.	Get a Github account - 
+ 1.	If you have an edu email: https://education.github.com/pack
+ 2.	Star interesting projects! Search, discover, read!
+ 2.	www.reddit.com/r/Python
+ 3.	StackOverflow.com
+5.	Build something!!! Ideas:
+ 1.	I know you're in the financial world. Why not Computational Investing?
+      1.	https://www.coursera.org/learn/computational-investing
+ 2.	Python webapps are popular. Learn DJANGO (a python framework).
+      1.	http://gettingstartedwithdjango.com/ 
+ 3.	Raspberry Pi's are hackable little computers that can be scripted with python. Buy a Pi 2 and hack away! Build a robot
+ 4.	Visit Hackathons!
+     1.	https://mlh.io/seasons/s2015/events
+ 5.	Do TOPCODER challenges. These are some of the questions that come up in technical interviews
+ 1.	https://www.topcoder.com/challenges/?pageIndex=1
+ 6.	Something else! The possibilities are endless. Find something you want to do and do it!
+6.	Next steps
+ 1.	Data Science is huuuuge and it's only getting bigger. Seek out online courses for DS and do the TopCoder DS challenges. 
+ 3.	Practice more on Django or Python on Pylons. Search for webdev openings. 
+",2015-10-18 01:59:40
+I created this free tool for learning Python and would love some feedback form /r/learnpython,468,8etktr,35,1524691958.0,"# [Practice Python](https://edabit.com/challenges/python3)
+
+I posted in this sub over a year ago asking for help with translations but figured it's probably worth posting again now that there's LOTS of quality Python challenges (113 as of this post).
+
+**EDIT: Thanks for the gold stranger!**",2018-04-25 16:32:38
+Is it too late for a 40 years old uncle to learn Python from no basics?,473,edq0wd,169,1576964403.0,"I just took my venture in Python learning.
+
+Maybe I am too old. Maybe I have nothing in Mathematics or computer knowledge.
+
+I just wanna try, and see how far and how long I can last.
+
+Hello my new friends here! Hope us growing better!",2019-12-21 15:40:03
+Got a job offer today after doing the coding challenge and their technical interview with pythob,467,atbczv,108,1550828060.0,"I got offered a new job today and took it. I did the coding challenge in flask and the simple interview question in python. I’m just really happy and just wanted to share somewhere. Thanks for all the help guys.
+
+
+Edit: just realized my title misspelled python. I’m a disgrace.
+
+Edit2: a lot of people have asked about the challenge and the interview question. I can’t really give out details about the challenge due to signing an nda, but i hopes of keeping it somewhat obscure it was to code a website/api that allowed users to register, login, and then save and manipulate some data.
+
+The interview question was checking two strings to see if they were anagrams.
+
+Update: I was originally going to do some stuff in salesforce but my first few tasks are automating browser testing. I’m using python with splinter. I’m soooooooo happy.",2019-02-22 03:34:20
+Pi Day is almost over and I nearly forgot to mention that I wrote a script so people can determine whether a pizza place’s large or small is a better deal based on cost per sq inch. It’s called Pizza Pi R Squared. Happy Pi Day!,456,b1a2lo,34,1552650531.0,Here it is: https://github.com/GTeninbaum/pizzapi.py/blob/master/v3.py. Pull requests welcome to improve it!,2019-03-15 06:48:51
+I've been using Python for 5 years professionally. TODAY I discovered concurrent futures,453,eglfki,112,1577532135.0,"Granted, I don't do much in the way of concurrency.  But still, I have several open projects and have always used threading.  It took me until *today* to discover a feature implemented in Python 3.2...  
+
+But given that it's comically simple, given an example, I figured I'd share one.
+
+
+
+	import concurrent.futures
+	import random 
+	import datetime
+	import time
+	import uuid
+
+	def do_something(seconds, name):
+		print(f""Sleeping {seconds}\t{name}\t{str(datetime.datetime.now())[:19][11:]}"")
+		time.sleep(seconds)
+
+	with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
+		for i in range(50):
+			executor.submit(do_something
+				, seconds = random.randint(1,6)
+				, name = str(uuid.uuid4())[:6].upper())",2019-12-28 05:22:15
+Beginner's Python cheat sheets - updated,448,4y06nq,50,1471391455.0,"In the spring I posted a set of cheat sheets aimed at beginners, and many people found them useful. I've since completed the set of sheets, and wanted to share the full set. The additional sheets cover files and exceptions, testing, Pygame, matplotlib, Pygal, and Django.
+
+You can download [individual sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html), or download a pdf that includes all the sheets in [one document](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf). These sheets aim to remind you of Python's syntax, but they also include brief explanations of the concepts behind the syntax as well.
+
+I wrote these sheets as supporting documentation for readers of [Python Crash Course](https://www.nostarch.com/pythoncrashcourse), but I think they're useful for beginners in general. I hope you find them helpful, and I'm happy to answer any questions about them.
+
+",2016-08-16 18:50:55
+mind blown using help() in python,444,dnzuz0,58,1572242634.0,"I've been programming in python for about a year now. And I've never encountered this module before, and it's soooooooo incredibly useful. Like I'll probably never even google anything ever again ( ok thats total bullshit). But really my point here is if you're learning python you should be aware of and know how to use the help module IMHO. across the thousands of webpages I've been to and resources I've used to teach myself I can't believe I didn't run into it sooner. Anyways I just thought sunday was a good day for ranting and sharing. I hadn't initially planned on asking a question here but maybe we could get something along the lines of things you found out too late and or things everyone learning python IYHO should know. :)
+
+edit:
+
+help is a function in python which describes the object you pass to it. The description it outputs is it's docstring, as pointed out by DataDecay more information on docstrings can be found in [PEP-257](https://www.python.org/dev/peps/pep-0257/)
+
+so if you want more information about an object you can pass it as an argument to help.
+
+Say for instance you were confused as I currently am about how asyncio works.
+
+You could type help(asyncio) and it would give you information about that package (technically object).
+
+YAYYYYYYY and rkarl7777 both mentioned another very useful utility named dir, which will list the methods available to the object passed to it.
+
+So after gaining a general understanding of the base package you can then look through all of its methods.
+
+dir(asyncio)
+
+then if you have questions about any of the methods in that list you can query those with help.
+
+help(asyncio.StreamWriter)
+
+Now hang on just a second while I try and find somebody who is better at explaining things than I am.
+
+I went through a couple of articles, this one seems to be the best.
+
+[https://www.linuxnix.com/python-builtin-helpdir-help-type-and-\_\_\_doc\_-functions/](https://www.linuxnix.com/python-builtin-helpdir-help-type-and-___doc_-functions/)",2019-10-28 01:03:54
+"Where can I learn *actual* projects, not 'hello world'?",441,8fqt2i,88,1525030331.0,"Hi guys,
+
+
+As the title suggests, I've crawled through many python/coding courses, that offer the same learning experience: mostly dry syntax education - ""what is a loop"", ""how to create variables"" etc etc.
+
+
+Obviously this is extremely important, but is there any course that is actually enjoyable that teaches to build *finished* apps and programs? And I don't mean a tic tac toe game, or reminder app. Something a little more dynamic and interesting. Anything?
+
+
+I want to learn by *doing*, not by essentially reading the dictionary. Any help would be great!",2018-04-29 14:32:11
+"Learning Python for Data Science: Deep learning (TensorFlow, Theano, Keras, Caffe), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",432,60n6gh,21,1490126722.0,"Hi Reddit,
+
+Just wanted to share a recently updated collection of Jupyter notebooks I reference while learning about and working with data.
+
+https://github.com/donnemartin/data-science-ipython-notebooks
+
+Topics include:
+
+* Python language essentials geared towards data processing
+* Python data stack
+* Machine learning
+* Deep learning
+* Big data processing with Spark, MapReduce, and AWS
+* Statistical inference
+* Business analyses (ie churn modeling)
+* Various command lines
+
+-Donne",2017-03-21 15:05:22
+Learn algorithms and data structures (and prep for coding interviews) with interactive coding challenges in Python,427,63sg43,12,1491508580.0,"Hi Reddit,
+
+I've recently overhauled the interactive Python coding challenges repo, now with more than double the original content:
+
+https://github.com/donnemartin/interactive-coding-challenges
+
+Included are unit tested reference implementations of various data structures and algorithms.
+
+Each challenge has one or more reference solutions that are:
+
+* Fully functional
+* Unit tested
+* Easy-to-understand
+
+Notebooks also detail:
+
+* Constraints
+* Test cases
+* Algorithms
+* Big-O time and space complexities
+
+Anki flashcards are also available.  Great for use while on-the-go!
+
+Bonus: If you're looking to learn/practice system design or object oriented exercises, check out the sister repo, The System Design Primer:
+
+https://github.com/donnemartin/system-design-primer
+
+Hope this helps!
+
+-Donne
+",2017-04-06 14:56:20
+The Ultimate List of Python YouTube Channels – Real Python,433,8sr32u,17,1529609257.0,"For those who like to learn python by video this a great ""curated"" list for YouTube.
+
+The Ultimate List of Python YouTube Channels – Real Python
+
+[https://realpython.com/python-youtube-channels](https://realpython.com/python-youtube-channels)
+
+My favorites so far: Al Sweigart, Corey Schafer, Sentdex and Socratica
+
+Let me know what you like or find useful ...",2018-06-21 14:27:37
+I made a thing: a Twitter bot which nags at my ISP when I'm unhappy with my internet connection.,427,8i9st7,60,1525931438.0,"[Github repository](https://github.com/crlsmnzs/InternetSpeedNagger)
+
+Inspired by a post I saw on /r/ProgrammerHumor ages ago. Critique my code as I'd be very happy to optimize it and make it more legible.",2018-05-10 00:50:38
+Wrote my first API,426,czgpgs,44,1567604559.0,"I would love any feedback.  The API simply returns homebrewing calculations.  I know there still a lot to do.  [Brew Numbers API](http://18.216.248.93)
+
+[Github Repo](https://github.com/bmw2621/brewNumbers)",2019-09-04 08:42:39
+I just wanted to say how great Automate The Boring Stuff is,423,5honmq,89,1481463529.0,"I'm only on chapter 3, but I have learned a lot. I'm able to create little programs such as a calorie calculator, small adventure game, dice simulator, etc. I'm having a lot of fun and I'm really excited for the future.
+
+When I was learning html/css/js, I thought that's what programming was. I never enjoyed it and it was hard for me to learn. Python and ATBS has sparked something inside of me that makes me feel that fuzzy feeling again. Yipee!
+
+I just really wanted to share with someone.
+
+edit: spelling",2016-12-11 07:38:49
+I made a cheatsheet for a co-worker thought it could be of use here.,413,9hv1ra,46,1537600686.0,"I made a cheatsheet for beginner to intermediate Python users about concepts I think everyone should know. Check it out and let me know what you'd want to see. Suggestions are more than welcome.
+
+~~[https://github.com/gpetepg/python\_tips/blob/master/python\_tips\_1.ipynb](https://github.com/gpetepg/python_tips/blob/master/python_tips_1.ipynb)~~
+
+Edit: Added a couple string formats! Let me know how I should name the files... Also working on itertools, collections and functools for sheet 2.
+
+Edit 2: Use this link https://github.com/gpetepg/python_tips",2018-09-22 02:18:06
+I fixed a bug in an open-source project for the first time ever today!,410,5l6cl9,21,1483166808.0,"I was installing a Django plugin that crashed when I attempted to migrate the database during installation. I had no idea what caused it. First I searched google and stack exchange. Then I almost posted an issue on the github, but I decided I should dig a little further before posting. After 20-30 minutes of floundering around (and reinstalling from scratch a couple times)  I finally nailed down where exactly in the code the error was coming from (traceback wasn't super helpful). Turns out, someone fixed a bunch of tests 6 days ago and one of the tests on a migration was not updated along with the model that was updated. So I fixed it and ran it locally, and it worked!  
+
+So all I did was change the name of a Model from testmodel to tmodel and I'm sure it would have been caught by someone within a few more days, but it just feels cool to finally be able to track that stuff down on my own and fix it rather than asking for questions and throwing my hands up all the time.  
+  
+Anyways, it feels pretty good, and none of my friends would get it so I figured I'd share with you guys. Hope everyone is having a happy New Year's Eve's Eve!",2016-12-31 00:46:48
+My recent interview experience on Python.,410,bbmhg2,83,1554934286.0,"Role: Automation Test Developer. 
+
+Questions asked:
+
+1: Basics of Linux, few tricky commands, what are inodes, setting up networking etc etc. 
+
+2: Python: 
+
+    Given a file, write a function which accepts a version 
+    number, date and returns pass or fail. 
+    
+     EDIT:
+     the file structure is basically a test result log file which contains lines of information.
+     Each line has a version and date, tests run and results. 
+     I was supposed to return results which are pass fail based on the version number and date given.:)
+   
+
+    Reverse a sentence without using slicing.
+
+    List comprehension basics. 
+
+What I did right: I wrote enough code solving pythonic interview problems, and I was comfortable writing the code in the interview. 
+
+what I did wrong: Focused too much on interview type problems, like Coin change, linked list etc etc. Should have also focused on some real use cases of python. For example, how to test a code with different inputs, how to parse few lines from a file, how to schedule a cron job etc etc. 
+
+TLDR; Don't just bust your head trying to solve interview challenges from cracking the coding interview. Also learn to make some real world programs.",2019-04-10 17:11:26
+I wrote an application that sets your background to NASA's picture of the day!,415,emdvop,68,1578623969.0,"After some research I figured out that someone already came up with this idea (Great minds think alike!), but he took slightly different approach to this, and his is more advanced I guess. I just wanted to make something for fun, so don't expect this to be even slightly as good as his. Even if I tried it wouldn't be half as good. You can find his attempt at this [here](https://www.reddit.com/r/learnpython/comments/ef072o/im_working_on_a_cli_application_to_change_your/).
+
+\---------------------------------------------------------------------------------------------
+
+Anyway mine is windows only, and you can find the code [here](https://gist.github.com/glof2/b490f5df1961d5d471271ae930aee316).
+
+Any adviced would be appreciated.
+
+Thanks in advance!",2020-01-09 20:39:29
+"""I wish I'd found this tool earlier!!"" One example: Python Tutor",411,b06o4r,50,1552418818.0,"Hello guys! I've been learning Python for more than 3 months now. Lately I've found this amazing tool called ""[Python Tutor](http://pythontutor.com/)"" which visualizes codes step by step. It helped me understand the problems with passing mutable objects as parameters and re-assignment of names.
+
+&#x200B;
+
+I was super ecstatic when I found out how useful Python Tutor is. I am sure there are other similar tools (not necessarily about code flow visualization) that could benefit beginners and intermediate programmers alike. Is there any moment like ""I wish I had found this tool earlier!"" that you would like to share?
+
+&#x200B;
+
+Thank you and happy programming!",2019-03-12 14:26:58
+My first application!,404,dyjwhe,74,1574196039.0,"In October I started my Python-journey, with a full time job and a 2yo kid the spare time is scarce.  
+ I've been following a Udemy-course and also used some android-apps to just study something every day.  
+ 2 weeks ago I made my first real script from scratch, I had a idea of automating / helping with a tedious task at work. I'm a train driver, and every train we start we fill a paper form, check some values from 2 different paper lists and enter some of that data into the control computer.
+
+The script were terminal based and did all the calculations I wanted, checked up the values from those 2 lists (one which is short, so I just made an elseif of it, the other is long so I made a .txt with the values) and gave a summarized result. 
+
+Now 2 weeks later I've deployed it on the web with Flask to be able to share with my colleges!  
+With dropdowns, forms to fill and a button to run the scripts and show the result.
+
+Thanks to inspiration from this subreddit (and others) I made it working! It's plain ugly, but the functionality is there. Guess I'll come back and sort the design with bootstrap or at least some css'ing next time I feel a dip in the studying.
+
+I dno if there's a better way to post a image, but here's one:  
+[Image of the result with explanations](https://postimg.cc/xJ4cJFrG)",2019-11-19 14:40:39
+Automate The Boring Stuff 2ND EDITION,405,damw32,50,1569738806.0,"https://nostarch.com/automatestuff2
+
+Did you get the first edition? what are your thoughts on it and what what great books you recommend written in latest Python syntax and features?",2019-09-29 01:33:26
+"TIL: If you use Duck Duck Go and type !py3k into the search bar, you will be directed to Python 3.7 docs!",397,arocm9,26,1550462351.0,"I noticed my self searching the python docs very often and did a quick search on the bangs ( -> ! is a bang) which DDG offers. 
+
+If you want to search anything in particular just type: 
+!py3k (search term).
+
+Hope that this helps you guys. Happy Coding :)",2019-02-17 21:59:11
+Learn computer programming by implementing games in Python,403,e3y7ym,32,1575157189.0,"I ran across [this jewel](https://yorkshire4.readthedocs.io/) - it looks like a great way to learn programming.
+
+[The author](https://github.com/beeware) transcribed the code from a series of books designed to teach programming in the days of the Commodore 64.",2019-11-30 17:39:49
+Proud of how far I've come,398,d5cojh,41,1568727935.0,"About two years ago, I decided to jump into Python, with a web crawler as my first project. And while it worked well enough, it was bloated, nearly 600 lines of code.
+
+Today, I started from scratch, and rewrote the same functionality in less than 70 lines.",2019-09-17 08:45:35
+How I saved Thanksgiving for hundreds of families with Python,396,9y1b7r,33,1542527637.0,"Consider this a very holiday-themed post. First of all, I'm thankful for this sub and for the members of #pySudyGroup for helping cultivate my skill.
+
+I've been learning Python for almost 2 years now, and yesterday I was faced with a challenge where skills converged to save Thanksgiving. One of our clients at work is a popular local restaurant chain with 6 locations. Every year they take holiday orders for their best food. We built an orders and reports system with Wordpress (ugh, I know) into their main site. Reports that were being generated were necessary so that every location knew what exactly to cook and prepare. For whatever reason, we ran into an issue where they were unable to produce this crucial data using Wordpress. Without this data to give to each location, it meant the cooks would have no idea how to prepare for every order and hundreds of families would show up with nothing to pick up. This could lead to a very dysfunctional Thanksgiving.
+
+Unfortunately, we couldn't find any real connection between orders and categories created by a third-party plugin, so we couldn't produce anything that would show on the front-end using some disgusting mySQL query. Anyways, I figured out that the SKU meta field for orders would show up in CSVs we could generate, and we could also have these orders separated by line items. So, to make a long story short, we created an SKU system for these items so they would have a category (e.g., ""bakery-0001, kitchen-0001, kitchen-002"").
+
+Within a couple hours, we finally got the number from each report to be like I needed it and then applied some logic (89 lines of Python magic) to make sure the reports could be how the chefs needed it. I finished in time so the chefs could start making and baking and Thanksgiving is saved.
+
+Feels good, man.
+
+",2018-11-18 01:53:57
+Python for Beginners - Complete Series,400,6bxbt5,27,1495154027.0,"A nine-part series I put together on Python Programming for Beginners. We go over the setup, data types, conditionals, loops, functions, how to import modules and explore the standard library. I hope you find them useful:
+
+1) [Installation and Setup](https://www.youtube.com/watch?v=YYXdXT2l-Gg)
+
+2) [Strings](https://www.youtube.com/watch?v=k9TUPpGqYTo)
+
+3) [Integers and Floats](https://www.youtube.com/watch?v=khKv-8q7YmY)
+
+4) [Lists, Tuples, and Sets](https://www.youtube.com/watch?v=W8KRzm-HUcc)
+
+5) [Dictionaries](https://www.youtube.com/watch?v=daefaLgNkw0)
+
+6) [Conditionals and Booleans](https://www.youtube.com/watch?v=DZwmZ8Usvnk)
+
+7) [Loops and Iterations](https://www.youtube.com/watch?v=6iF8Xb7Z3wQ)
+
+8) [Functions](https://www.youtube.com/watch?v=9Os0o3wzS_I)
+
+9) [Importing Modules and the Standard Library](https://www.youtube.com/watch?v=CqvZ3vGoGs0)
+
+Entire Playlist - [Here](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)",2017-05-18 19:33:47
+My Aunt gets really upset if I don't answer her daily good morning texts. WhatsApp API?,391,diit3b,210,1571222185.0,"Could I just make a script to open up a chome tab with whatsapp web, find my aunt in my messages, and reply to it something preselected?",2019-10-16 05:36:25
+"Can someone explain to me why is my 8GB Ram Macbook Pro able to open a 700MBs xml file, while my PC with 16GBs throws me an error?",380,eamglg,45,1576373130.0,SOLVED; I AM AN IDIOT USING 32 BIT VSCODE FUCKING KILL ME THANKS BYE.,2019-12-14 19:25:30
+"What are some 'speed hacks' that I, as a beginner, should be aware of when I code in python?",386,c7czwi,128,1561927148.0,"For example, a few helpful people in this subreddit advised me to use f-strings instead of %-formatting or str.format() and to utilise numpy arrays when working with large/complex lists.",2019-06-30 15:39:08
+Here's a website with 100+ short exercises for beginners to Python,374,7idif9,25,1512747901.0,"Useful for any beginners over at www.pythonsandladders.com. A good number of questions to go through, some perhaps a little challenging even for seasoned problem solvers.
+
+The whole thing runs in the browser through Skulpt, using JavaScript to emulate Python 2.6. 
+
+Happy coding!",2017-12-08 09:45:01
+Managed to impress my manager with Python... that sounds dirty,371,c0d2xj,103,1560497779.0," Had a noteworthy event at work today. I have an internship with Amazon for the summer, but it with the Data Center Operations divisions. So working with servers mostly. But I found a way to make an impression on my manager today using Python. I can't go into specific details of what we were working on (NDA and confidentiality and all) but I can talk about what I did. 
+
+We were working with a large number of assets (327 total) and part of that work involved compiling information about those assets. Well as an intern I get all the crap jobs. So I got handed that job. So for 2 days, I've been working on compiling the info in a spreadsheet. Thought I was finished but found I only had information for 319 assets. Well, we can't just 'lose' 8 assets. That kind of looks bad on a record. So my manager wanted me to go through the list of total assets and figure out what 8 we didn't have info for. I'm like 99% sure he was expecting me to go line by line in excel and do a CTRL+F to see which ones from the total list weren't on the info list. A nice little process that would likely have taken me the better part of the day to accomplish.   
+
+Instead, I pulled up python, threw together a script to build 2 lists (one for total assets, one for the information I had compiled) and then compare the lists. Anything it found in the totals list that it didn't find in the info list got dumped to a text file.  
+
+Total time: 18 minutes (I had to look up some info on the xlswriter module).  
+
+My manager literally said: ""How the hell did you do that?"" when I showed him the list 20 minutes after we spoke.",2019-06-14 02:36:19
+Python Crash Course and An Introduction To High Performance Python,372,8ln9ga,18,1527140819.0,"Hey, I made and ran a workshop / demonstration as part of a series of events my university is running; 'High Performance Python'.
+
+ I have all of the code and presentations on Github, so I thought I'd share it with you all in case anyone finds it useful. [Github Link](https://github.com/LukeRoantree4815162342/QUB_DW_HighPerformancePython)
+
+The workshop had two parts;
+
+### A Python crash course / refresher -
+[PythonRefresher](https://github.com/LukeRoantree4815162342/QUB_DW_HighPerformancePython/blob/master/PythonRefresher.ipynb)
+
+### High Performance Python -
+[HighPerformance](https://github.com/LukeRoantree4815162342/QUB_DW_HighPerformancePython/tree/master/HighPerformance)
+
+Additionally, we have a tutorial for building a simple tic-tac-toe application;
+[PythonApp](https://github.com/LukeRoantree4815162342/QUB_DW_HighPerformancePython/tree/master/Python_App)
+
+Hope this is useful to someone, it was fun to make at least. 
+Message me if you have suggestions, or even better fork the repo and make a pull request.
+
+
+**[Edit: Someone gilded this - Thank you!]**",2018-05-24 00:46:59
+Sentdex is updating his Introduction to Python series!,365,9sfycs,48,1540867471.0,"For those of you who don't know who I'm talking about, Sentdex is an excellent teacher of Python and various Python libraries. He mentioned he was a little unhappy with his old Python tutorial series, and so he's updating it. I think he does a phenomenal job explaining concepts and helping you get going with Python, so I hope this helps other people as well.
+
+If you're a beginner looking to get started, I highly recommend checking out this series as he releases it. Here's the first video, [Introduction to Python 3 Programming Tutorial](https://www.youtube.com/watch?v=eXBD2bB9-RA).",2018-10-29 21:44:31
+Here's a way you can become a better programmer!,369,8bgawd,81,1523474652.0,"#### How do I become a better programmer?
+I see this question on reddit quite a lot.  In fact, I usually see something like it every time I open up r/learnpython or r/learnprogramming.  There is always someone wanting to know how to become a better programmer, what magic pill or secret incantation that others do that instantly make them a better programmer.  Invariably, there is never a simple answer to their question - often the answer boils down to 'Here's a bunch of tutorials, do them until you know the syntax then work on a project that interests you.'
+
+This often leads to some consternation on the part of the OP as they often wonder 'What project can I possibly work on if I don't know any programming?!?'  Often it seems as if they tentatively accept the advice and wander off into the wilderness to see if they can find this mystical project to work on.  Sometimes you even hear back from them.  Well.  Today I wanted to take a moment from my own project and tell you:  This is the absolute best advice anyone can give you.
+
+All the practice tutorials out there are wonderful.  Most of them, with the exception of a few that are looked down on by communities as a whole, are fairly well suited to the purpose for which they were created:  Teaching the syntax of a language.   See, that's the thing that most new programmers don't realize.  You're not learning how to program when you're doing these tutorials, you're simply learning how to speak the language.  Most people learn a few words in the language of python and want to write the next big Facebook or go to work for Google.  Well, let me tell you brothers and sisters, that's the equivalent of learning how to say 'Parlez vous frances?' and wanting to immediately set off to write the next big french literary masterpiece.  It's technically possible, but so unlikely as to be completely improbable.
+
+
+#### Find a project.
+So...why learn all that language (syntax) from tutorials then squander them in trying to flop around doing /MORE TUTORIALS/?  There comes a point where you're just learning things that don't seem very useful to you at all - but you keep plugging through them thinking 'everyone says do this tutorial, it's GOT to make me a better programmer, right?  Dave?  Right??'  Well, let me give you an example of why it's important to move past tutorials and go on to working on a project that you find interesting.  Now, no lie, [this](https://pastebin.com/UnJgCTD6) is code that I produced in August of 2017.  Nothing special, nothing fantastic.  In fact, it was probably copied directly from a tutorial somewhere with very little understanding on my part until I began tweaking and moving it around.  Now, this level of code was where I stayed until the end of December when I started to get interested in an opensource python project ([Evennia](http://www.evennia.com/).  When I started on that it was the end of Christmas break, the kids were going back to school and since I'm a disabled stay at home dad looking for a way to become a better programmer and maybe start earning a little money to bring into the house, I figured 'What the hell...I used to love playing on Muds/Mushes/Moo's back in the day, why not take this out for a spin?'  That ended up plunging me headlong into a project that I felt ill-prepared for...but after the first couple of sessions of flailing around, not knowing where anything was and asking a bunch of questions on the (friendly!) irc chat the project uses, I settled down and started going through /their/ tutorials and working on implementing my own ideas.
+
+It's been not quite four months...and [this](https://github.com/taladan/Pegasus/tree/origin/world/jobs) is the code I'm producing now.  Granted, there's probably a /lot/ wrong with it, and I'm still nailing down how to implement unittests into my code effectively, but...it's a hell of a lot more useful code that actually /does/ something.  I know that it's messy and not as good as some of the other stuff folks are doing, but in the last four months, I've learned (on my own) about Python, git, how to set up a development environment, how important standards are and why they exist.  And along the way, I've been working on different things and I'll ocassionally have a little flash of deja vu.  I'll go back and look at a project and realize - hey, I've done something very like this in a tutorial!  These are the moments when all the seemingly pointless how-to's and automating everything with the kitchen sink tutorials start to actually pay off.  
+
+
+#### Don't forget the secret sauce.
+Here's the secret that a lot of people don't think to tell you until you've been working at programming for a while:  You're going to have a hard time of it.  You're going to spend a whole day on one method, trying to figure out why it returns a list of tuples instead of just a straight list because something else is doing something you didn't account for.  See...**that** is how you become a better programmer. By sucking at it.  Not being satisfied with sucking at it, you google the shit out of your problem, ask on reddit, ask in IRC, post on git or stackoverflow....That's when you become better - when you have something that you're working on that is more important to you to get working than worrying about why the syntax of `','.join(string)` and `string.split(',')` look like that.  So...keep plugging along.  Find something you want to work on...something that you get up thinking about in the mornings...some puzzle you _really_ want to solve more than you want to watch that last episode of Dr. Who.  Do that and you'll become a better programmer.  Just be careful or the next time you're on Reddit, you'll see someone asking 'how do I be a better programmer?' and you'll invariably answer 'Do the tutorials, then find a project to work on'.  
+
+I hope this helps some of the newer folks some.  The folks who are better programmers already, I only ask that you not giggle too badly at my code...I am afterall, still learning :D
+
+_*Edit*_
+
+I've had several people ask me how they can contribute to the project, or how to get started.  I've created a channel on [Freenode](https://webchat.freenode.net/)
+
+I've also started some contribution guidelines [here](https://github.com/taladan/Pegasus/wiki)",2018-04-11 14:24:12
+I finally understand classes thanks to this presentation.,363,6tkolm,18,1502721043.0,"As a newbie to coding in general and having trouble understanding classes. [This helped me a bunch](http://slides.com/jasonmyers/learnpython-classes#/), I hope others can find it useful.",2017-08-14 09:30:43
+What are the CORE skills a Python programmer should have?,361,bggkgs,74,1556055985.0,"Trying to build a solid sample size of stuff to learn
+
+EDIT: What I’ve been seeing a good amount of is besides writing clean, pythonic code, learning and understanding how to use data structures is what made a good handful of people better programmers. Interesting.",2019-04-23 16:46:25
+Has anyone here automated their entire job?,362,dztdfq,181,1574413655.0,"I've read horror stories of people writing a single script that caused a department of 20 people to be let go. In a more positive context, I'm on my way to automating my entire job, which seems to be the push my boss needed to allow me to transition from my current role to a junior developer (I've only been here for 2 months, and now that I've learned the business, he's letting me do this to prove my knowledge), since my job, that can take 3 days at a time, will be done in 30 minutes or so each day. I'm super excited, and I just want to keep the excitement going by asking if anyone here has automated their entire job? What tasks did you automate? How long did it take you?",2019-11-22 03:07:35
+Black Friday hack with python,356,e294r9,111,1574850419.0,"So I just finished my python script to monitor the price of my target gadget this holiday.  It’s going to be heavily discounted soon but it will go to the fastest finger. 
+
+I’ve written a python script with BeautifulSoup. I’ve also set email and SMS alerts in the script 😂😂
+
+Was just wondering if there’s any other person doing this for Black Friday and Fastest Finger deals.
+
+
+
+Check it out on https://github.com/Olunusib/black-friday",2019-11-27 04:26:59
+Python OOP Series,357,5jgbiq,31,1482302571.0,"A six part series I put together on object-oriented programming in Python. I hope you find them useful:
+
+1) [Classes and Instances](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+
+2) [Class Variables](https://www.youtube.com/watch?v=BJ-VvGyQxho)
+
+3) [classmethods and staticmethods](https://www.youtube.com/watch?v=rq8cL2XMM5M)
+
+4) [Inheritance - Creating Subclasses](https://www.youtube.com/watch?v=RSl87lqOXDE)
+
+5) [Special (Magic/Dunder) Methods](https://www.youtube.com/watch?v=3ohzBxoFHAY)
+
+6) [Property Decorators - Getters, Setters, and Deleters](https://www.youtube.com/watch?v=jCzT9XFZ5bw)
+",2016-12-21 00:42:51
+"i decided to start learning python and i've been watching the same 5 videos over and over again to try and remember the lessons, am i mentally challenged or is that how most people start.",349,dcvncc,133,1570159167.0,"help
+
+edit: thanks to every one who made a helpful response, it may not seem like it but i read every commeny and i greatly appreciate it.",2019-10-03 22:19:27
+Is there a “Khan Academy” for programming?,352,cwkstg,134,1567027587.0,"Disclaimer: I know Khan Academy itself has a few programming modules. But they only scratch the surface and on their own are wholly insufficient to become a proficient coder. Khan Academy is 95% math, with everything else (incl. programming) stuffed into that remaining 5%. </disclaimer>
+
+For the past year I have used Khan Academy religiously to improve my math skills, going from almost pre-algebra all the way up up through Calculus 2. The way Khan Academy’s math modules are structured - bite-sized lessons that introduce key concepts followed by tailored practice problems, with each lesson laying the conceptual groundwork for those that follow, and all of the major topics being covered - has been amazingly productive for me. Because of that comprehensive and scaffolded structure, now I feel very confident in my university-level math skills where once I was basically mathematically illiterate. With select exceptions, Khan Academy is the only resource I’ve needed to achieve this level of success.
+
+**What I’m wondering is, is there a similar resource for computer programming?** In particular I’d like to learn Python, but eventually will also be interested in Java, R, and SQL. Again given my description of Khan Academy, what I’m looking for is a one-stop-shopping programming resource with a series of bite-sized lessons, followed by relevant exercises, that cover all the major concepts and techniques required to become proficient in a particular language. Does anybody know of such?
+
+Edit: Free like Khan Academy is of course preferred, but for the right resource, I would definitely pay.
+
+Edit 2: I do have a tiny bit of Python experience, but not very much at all.",2019-08-28 16:26:27
+"I am exactly 30 days into learning and this first thing I ever made, seriously thank you to this sub.",348,chwpb9,67,1564134639.0,"I have zero programming experience and 30 days ago I picked up Automate the Boring stuff.  I am subbed to over 700 subs and I hop between accounts a lot. I decided to write something that would help me subscribe to all my subs every time I pick up a new account. I read here that PRAW is the way to mess around with reddit.
+
+I know this has probably been made here a billion times, but its the first thing I've ever created by myself and I am so incredibly happy.
+
+Thank you to everyone on this sub for all the encouragement, never posted before but I lurk heavy.
+
+Please let me know if there is anyway I can improve/cleanup.
+
+import praw  
+import openpyxl  
+import os  
+
+
+\# open Reddit instance: Log in  
+`reddit = praw.Reddit(client_id='youridhere',`  
+`client_secret='secretkeyhere',`  
+`user_agent='agentname',`  
+`username='username',`  
+`password='redditpassword')`  
+\# Change directory to where your file is located  
+`os.chdir('/Users/path')`  
+\# Confirm you're in the right directory  
+`os.getcwd()`  
+\# Open the excel file where subs are stored  
+`workbook = openpyxl.load_workbook('allsubs.xlsx')`  
+\# Specify sheet that data is on  
+`sheet = workbook['Sheet1']`  
+\# Read data in each cell one by one  
+\# Range of Cells that contain the subs  
+`for subs in sheet['A1':'A732']:`  
+  `for cell in subs:`  
+\# Subscribe to each 'cell value' which is a sub's name  
+\# Try/Except: For subs that are invite only or are currently quarantined  
+\# Keep going if an exception is raised.  
+ `try:`  
+`print(reddit.subreddit(cell.value).subscribe())`  
+`print('You have subscribed to: ' + cell.value)`  
+ `except Exception:`  
+ `pass`  
+`print(""\nAll done"")`",2019-07-26 04:50:39
+"If someone told you they know Python, what would you expect them to know?",342,d9uakg,176,1569581455.0,"Or for example, if someone put Python on their resume. What sort of things would you ask to determine what they actually know, or at least instill some confidence in you.
+
+&#x200B;
+
+Edit: Well then, looks like I have some responses to go through! And lots to learn! lmao",2019-09-27 05:50:55
+How did you manage your time to teach yourself python while working a full-time job?,350,bb9wgg,100,1554855605.0,"I am determined to learn python. I want to turn my career and life around. I do not want to be in my dead-end job anymore. But I can't do it alone, so please help me out.
+
+For those who eventually did a career change into programming learning python while working a full-time job, how did you manage your time? What sources did you use?
+
+At the moment, I chose ""Python Crash Course"" and I intend to read ""Automate the Boring Stuff"" next.
+
+Also, I don't know exactly in which department I would like to work for, but probably data analytics. But artificial intelligence, machine learning, and robotics do interest me as well.
+
+Anyway, I would appreciate any tips for this new noob into python world. Thank you in advance!
+
+\*\*\*EDIT\*\*\*
+
+I'm so thankful for everyone who commented and gave me some tips! I did not expect to get all these answers. So, what I'm going to do is actually enroll in ""Learn Python Programming Masterclass"" on Udemy which was suggested by u/BigTheory88 and side by side going over what I've been reading already, ""Python Crash Course."" I've also downloaded ""Solo Learn"" app, so I can keep studying during my breaks. I'm going to set aside at least an hour during the weekdays to study. And I'll invest more hours to study during the weekends. I'll make short-term goals per day by trying to complete a chapter or concept. I am determined because I want to change my life. I cannot continue to live with my current low-paying dead-end job. I understand and recognize the fact that I need to learn a new skill to get out of my current job and start my new journey into programming. I have a 1 year goal to be hired into a programming job for now. And I am looking forward to the future and myself posting my progress and result, no matter what the outcome. I am optimistic and motivated (for once) to meet my goal. Thank you once again to everyone! I hope to post my failures and successes by April 2020!",2019-04-09 19:20:05
+[Meta] PSA: Please don't delete your 'Help me with XY' threads.,345,90zktj,32,1532310819.0,"I sometimes see a thread with Python newbie asking a question and after getting the answer, he/she deletes the thread and doesn't even thank the commenters. Guys, you have nothing to be ashamed for, everyone was a beginner once! That's what /r/learnpython is for. If you delete your thread, not only it is rude to people who went out of their way to answer you, but you are kinda ruining it for other people who might benefit from reading the thread.
+
+Case in point: https://www.reddit.com/r/learnpython/comments/90ya6i/why_doesnt_this_work/
+
+/rant",2018-07-22 20:53:39
+How do you stay disciplined in learning Python?,350,efe7bm,87,1577292109.0,"I'm honestly curious for those of you who've stayed on track learning Python: how do you stay disciplined and consistent?
+
+It feels like whenever I have schoolwork in the way, I can't be bothered to pick up the Automate the Boring Stuff book I've had on my shelf for nearly a few months now, or keep practicing. It's winter break now and I'm still struggling to make it a priority.",2019-12-25 10:41:49
+How to actually improve at Python?,344,ehl2qa,97,1577734837.0,"Everywhere I look, people just say ""just code everyday"". I would love to code everyday, but I've learnt all my python through a structured uni course. I really need help on **what to actually** code! I would love to code everyday, but I just simply do not know what to code.
+
+Any help is appreciated!",2019-12-30 13:40:37
