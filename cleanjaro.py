@@ -10,16 +10,13 @@ import subprocess
 # Start the choice loop
 while True:
     # ASCII for fun
-    print ("  __        ___                      __   __  ")
-    print (" /  ` |    |__   /\  |\ |    |  /\  |__) /  \ ")
-    print (" \__, |___ |___ /~~\ | \| \__/ /~~\ |  \ \__/ ")
-    print ("                                              ")
-    print ("1. Update Mirrors")
-    print ("2. System Upgrade")
-    print ("3. Remove Orphan Packages")
-    print ("4. Purge Cache Not Accessed in 30 Days")
-    print ("5. Clean Up pacman Cache")
-    print ("6. Exit")
+    print("\nCleanJaro Manjaro Maintenance Script")
+    print("1. Update Mirrors")
+    print("2. System Upgrade")
+    print("3. Remove Orphan Packages")
+    print("4. Purge Cache Not Accessed in 30 Days")
+    print("5. Clean Up pacman Cache")
+    print("6. Exit")
     # Get the users input.
     choice = input("Enter choice(1/2/3/4/5/6): ")
 
@@ -28,9 +25,9 @@ while True:
     elif choice == '2':
         subprocess.call(["sudo", "pacman", "-Syyu"])
     elif choice == '3':
-        os.system('sudo pacman -Rs $(pacman -Qdtq)')
+        os.system("sudo pacman -Rs $(pacman -Qdtq)")
     elif choice == '4':
-        cmd = 'sudo find ~/.cache/ -type f -atime +30 -delete'
+        os.system("sudo find ~/.cache/ -type f -atime +30 -delete")
     elif choice == '5':
         subprocess.call(["sudo", "pacman", "-Scc"])
     elif choice == '6':
