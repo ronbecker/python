@@ -14,19 +14,19 @@ while True:
     print("4. Purge Cache Not Accessed in 30 Days")
     print("5. Clean Up pacman Cache")
     print("6. Exit")
-    choice = input("Enter choice: ")
+    choice = int(input("Enter choice: "))
 
-    if choice == '1':
+    if choice == 1:
         subprocess.call(["sudo", "pacman", "-Sy"])
-    elif choice == '2':
+    elif choice == 2:
         subprocess.call(["sudo", "pacman", "-Syyu"])
-    elif choice == '3':
+    elif choice == 3:
         os.system("sudo pacman -Rs $(pacman -Qdtq)")
-    elif choice == '4':
+    elif choice == 4:
         os.system("sudo find ~/.cache/ -type f -atime +30 -delete")
-    elif choice == '5':
+    elif choice == 5:
         subprocess.call(["sudo", "pacman", "-Scc"])
-    elif choice == '6':
+    elif choice == 6:
         print ("Thanks for using CleanJaro! See ya later.")
         break
     else :
