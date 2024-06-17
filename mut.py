@@ -7,7 +7,7 @@ import os
 import subprocess
 
 while True:
-    print("\nCleanJaro - Manjaro Maintenace Script")
+    print("\nMUT - Manjaro Update Tool")
     print("1. Update Mirrors")
     print("2. System Upgrade")
     print("3. Remove Orphan Packages")
@@ -27,7 +27,7 @@ while True:
     elif choice == 5:
         subprocess.call(["sudo", "pacman", "-Scc"])
     elif choice == 6:
-        print ("Thanks for using CleanJaro! See ya later.")
+        print ("Thanks for using MUT! See ya later.")
         break
     else :
         print ("Invalid option.")
